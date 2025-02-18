@@ -1,0 +1,1001 @@
+Customer id,Retailer_name,Retailer_industry,Num_stores,Avg monthly_revenue,Contract_value,Contract tenure_months,Platform_usage_hours,Support_tickets_opened,Data_integration_issues,churn
+5cc43530-1d12-4dba-82ac-5d930d6bc1bd,"Murphy, Bell and Nguyen",Fashion,81,184890.08,20653,17,61,1,1,0
+0e1e2a89-9bfe-4884-940f-1f33ac56ad70,Brown-Bailey,Home Goods,34,128046.35,5820,12,65,0,7,0
+361a42ee-2f63-406e-94a8-d6d832a29f29,Moore-Hobbs,Fashion,18,118221.28,18495,10,63,0,9,0
+27610bd4-f071-4fd7-9d87-590799150bdf,Campos-Mcclure,Electronics,7,105707.06,12023,11,71,3,7,0
+9a3b3668-912c-400e-950a-0d2fb82b9624,Hughes-Mccarthy,Electronics,69,195979.61,15355,16,52,3,4,0
+2fc99822-7b27-44a9-8a4f-0a8a1dd710d5,Gutierrez-Rivera,Food & Beverage,35,34280.34,16063,25,32,1,7,0
+5a1575a5-fe23-472a-a977-3d262097dd76,Riggs-Summers,Home Goods,80,116498.85,41572,40,82,4,5,0
+5c523308-0af7-41a8-b7f8-64b98cacc00a,White and Sons,Home Goods,58,95396.67,37581,8,51,0,0,0
+b9741256-b033-4f8e-9844-ac34eb096223,Rose-Elliott,Home Goods,63,164817.69,23599,16,51,0,2,0
+888dac24-6b28-456c-8337-75bbe552ac95,"Rogers, Carrillo and Doyle",Electronics,17,112442.64,39761,4,38,2,9,1
+d5a6ca8e-79d8-4aec-a46e-6ea0ed31daa5,"George, Clark and Koch",Home Goods,70,46131.73,23956,10,57,3,8,0
+5567d34e-ff7a-4c4f-9822-fa9cf5732270,Davis and Sons,Home Goods,67,118151.02,31106,26,18,4,1,0
+6f0e3e49-5ed8-458f-a73d-fa194fa744d7,"Lara, Chase and Caldwell",Electronics,37,116611.65,25393,4,56,1,7,0
+e09c6913-035d-490b-962a-914bca0d420a,Sullivan-Johnson,Home Goods,6,132468.11,39633,46,46,0,4,0
+23dec01f-327a-4ce7-869a-e0815c3f1453,Sutton-Bruce,Electronics,94,32420.15,36129,42,43,4,7,0
+a935a688-c23e-4e84-b677-b80f99c2edc0,"Stephens, Rodriguez and Watkins",Electronics,98,56254.05,25810,43,54,4,3,0
+ea24fe55-eefd-488c-9f5f-213ed2ebb35c,Moore-Martin,Electronics,94,86887.5,30975,12,49,1,7,0
+cf15b65c-98cd-467b-a607-d326aec0133a,Howard and Sons,Electronics,5,141276.72,45281,36,48,2,5,0
+0faebcc3-08eb-4694-bb63-c636e7fb9a57,Lopez PLC,Food & Beverage,77,148174.71,34600,35,51,2,7,0
+fb10f33b-76b0-4f69-b938-c6424cef5ab7,Ryan-Mcgrath,Home Goods,39,133837.2,43152,13,50,0,6,0
+bcc672b5-a1f8-46ac-9c9e-fbb8fe534460,Malone Inc,Home Goods,95,117443.45,34005,47,60,4,0,0
+45c1df8d-8c9e-4236-8fb3-735c0a63d839,"Williams, Mcdaniel and Fleming",Food & Beverage,25,120092.97,42439,4,29,3,9,0
+afa9afe6-8467-4176-835e-077e7093d97a,"Dean, Walters and Jacobs",Food & Beverage,46,78738.85,17966,45,45,2,3,0
+eb0ead58-b3f9-4c01-b91b-0b957049b33d,Ryan PLC,Electronics,3,183354.66,47781,41,14,2,2,0
+cd747d44-4880-4a10-917c-4d58b5a47021,Martin Group,Home Goods,97,171120.74,13194,11,71,3,1,0
+8d1f1eab-b615-4200-9765-8aa3b2b54be8,Schultz-Sullivan,Home Goods,29,118966.17,7711,35,1,2,5,0
+60b78a9f-caad-41c0-b9bc-ad73bda54aab,Arias and Sons,Home Goods,83,124608.69,12012,42,59,0,3,1
+683bd014-3232-47c7-aaf5-a3e5d92f8bb6,"Solomon, Perry and Lucas",Electronics,56,102506.49,26108,39,59,4,9,0
+c0f65eb9-2947-450e-accc-6910ef7ad765,Reynolds Group,Electronics,78,129070.73,17621,8,63,3,8,0
+fefd104c-db1e-4f66-891e-52a0f760efeb,Anderson Ltd,Electronics,16,35175.6,17614,30,39,3,0,0
+f9bcd7db-8992-4f27-a0ee-7f3cbc5bd3b2,Brown-Ross,Fashion,62,73437.18,6927,41,45,3,0,0
+f7a49bef-8a85-44ef-8fc6-0b008be7f85d,"Thomas, Sanchez and Savage",Electronics,3,86510.38,43867,1,43,3,9,0
+51786614-cb0e-444a-851d-e12a6b864c48,Mendoza-Gilbert,Fashion,14,82147.94,30631,13,45,2,8,0
+7cd1c9ed-dde6-4af3-9582-8289322c6995,"Harper, Hudson and Shaw",Electronics,40,151723.07,16785,26,45,4,3,0
+e13d9e37-4005-4bc0-8848-dbfe76874fd9,Mills-Moss,Fashion,68,95313.67,34371,23,62,2,7,0
+23e18b16-f469-402e-b383-30678737796b,Hatfield LLC,Food & Beverage,46,50135.85,25813,23,46,2,0,0
+747f1a37-a8f5-4f0b-85ad-49608171e80b,"Howe, Carroll and Tran",Food & Beverage,5,79898.26,7424,25,70,2,8,1
+ccf25e54-4f2f-40a0-9e19-cf2238749e8d,Hall PLC,Electronics,87,93956.27,44630,21,62,3,0,0
+9210ba23-69a8-45a0-a0c5-1d5c1ad1c4c7,Benson LLC,Food & Beverage,97,173449.8,6140,35,65,0,4,0
+3f6005c2-8b6e-438b-aed3-a865c12527ad,Calderon-Martinez,Fashion,71,97882.73,47132,35,64,0,9,0
+9d72e394-c14c-444d-a45b-bdd62bc97fb9,"Shelton, Johnson and Robertson",Home Goods,80,110709.49,7646,21,48,3,4,0
+100fa49d-932b-41bc-b1ef-199f94bc7882,Harvey Ltd,Home Goods,46,53074.34,37924,11,40,4,7,0
+8d80ca76-b40d-4e0b-826f-a1e412dc352e,Holder PLC,Fashion,40,117720.45,34853,32,44,1,8,0
+b80a73e1-04a8-4ff2-a15c-51cfaef80b17,Ross-Rose,Home Goods,58,44650.96,10485,41,47,1,9,0
+7a51aa8f-2c2b-4792-beb4-b9e8750917fe,Anderson Group,Fashion,7,126963.27,21128,2,68,3,0,0
+26daadb1-4b71-427b-81c2-23686f56116b,"Bonilla, Morton and Barrett",Electronics,55,176954.1,33750,34,66,3,0,0
+ba973087-4a3e-462b-b50b-9af21c1aad35,"Parker, Miller and Hernandez",Home Goods,41,100901.85,43915,29,0,4,3,0
+f56768b2-f46a-41e7-8453-bfd45c70d2b8,Harrison-Bailey,Electronics,32,82612.97,17208,37,55,4,4,0
+f0cdd379-5f47-4fee-9db6-85f1ef6ba44d,"Armstrong, Jones and Warner",Home Goods,41,26733.45,33956,25,42,4,4,0
+8f1bc8c7-1161-4fd1-948e-450428a22dde,Lloyd Ltd,Home Goods,87,156915.94,42852,33,39,0,1,0
+870943c2-dd56-45ad-b793-24e5008a0b5b,"Harvey, Hardin and Mitchell",Electronics,20,128984.91,43594,28,87,0,4,0
+838cda91-470a-4b4a-8f5d-93738e01a9c5,Chavez-Nichols,Food & Beverage,7,51262.18,42725,20,88,4,0,0
+e2d9685e-be38-45fa-8e56-52a840500e61,Simmons LLC,Food & Beverage,30,115723.69,9134,38,50,3,2,0
+4b32b41b-011e-4860-a0e3-5bc723f46588,Dunlap PLC,Fashion,74,99455.04,40005,9,53,0,3,0
+b8431ae9-35ab-4a6d-a294-bc1e27749b0b,Ryan-Wagner,Food & Beverage,70,94948.71,21773,37,69,4,7,0
+2f91226a-e4c3-4246-935f-c6fa427d27a2,Stephens-Allen,Food & Beverage,78,132548.82,26048,42,63,1,7,0
+876a33e7-e1ff-43fd-8d07-ebe0a90179c9,"Espinoza, Lee and Hebert",Food & Beverage,26,121688.91,38292,46,78,3,3,0
+eef871a9-2ffd-4071-ab23-790bad4534d7,"Woodward, Phillips and Johnson",Electronics,43,24931.36,35085,29,64,4,8,0
+ac152866-7e3c-433b-8dbf-75b8317f7366,Welch LLC,Electronics,94,122806.1,5635,14,11,1,5,0
+d3c1e83b-f1b6-45da-9499-c2cee968a3c6,Campbell PLC,Home Goods,61,112567.47,6264,41,52,4,5,0
+a53e2dcf-5142-4458-b390-9c9d665fbc91,Freeman-Ali,Electronics,96,136320.79,15939,30,46,2,1,0
+96f12c9e-b548-45bf-8708-929a61be556b,Barnes Inc,Electronics,29,137822.4,34102,30,59,0,2,0
+ff0ab870-ae0c-485b-be91-7db337ffdf73,Cain LLC,Electronics,64,57174.23,40071,18,27,3,0,0
+7c8ff1e5-d1d4-4079-a842-d00e89b8734a,Ramirez-Ortiz,Home Goods,24,31686.72,24369,35,49,1,1,0
+a6f2c86a-9abd-42af-807b-8b8c6af72b4e,"Cook, Graham and Cook",Home Goods,30,12742.74,6403,24,53,0,5,0
+582503e5-a0eb-46b8-a7ce-451ec6d83745,"Bowers, Franklin and Obrien",Food & Beverage,84,137750.45,40674,41,27,1,6,0
+b03f1ac3-e738-4056-9fd3-5eac8c8b3e9e,Brown-Hawkins,Food & Beverage,12,192236.01,26374,42,66,1,4,0
+a28784db-825d-4570-8cc2-37d8badb5647,Lynch PLC,Fashion,91,148811.29,5873,14,34,0,3,0
+cebb9777-ac2d-4877-850b-d6d6935a0d8f,"Ramirez, Pennington and Fitzgerald",Electronics,36,93758.05,46626,3,50,2,4,0
+d1ccc981-93c9-4d07-a07e-0f81205c10e9,Castro PLC,Electronics,51,101228.07,11351,4,70,4,2,0
+960d5e03-5763-4038-8cdf-35759725b5db,"Kline, Campos and Underwood",Fashion,4,126099.73,20763,35,31,2,4,0
+925d4511-523b-4f0e-b767-3dcc5c576910,Walker-Scott,Fashion,61,176192.34,46856,40,39,4,5,0
+a2b5e5ef-2df9-40d5-b6d4-0e4b594eccf8,"Cohen, Estrada and Schultz",Food & Beverage,22,151024.79,45347,43,71,1,0,0
+407ed6d5-809e-4171-9fd6-6ba6e3182d05,"Barron, Garcia and Wallace",Fashion,33,26626.61,35010,1,27,3,9,0
+449c4c75-fcbc-414e-95d8-5550568a379e,Gamble Group,Electronics,80,188917.14,7002,47,4,2,0,0
+1935fe05-4dff-43a1-bf8f-f91d4ec468ec,"Wyatt, Fox and Morris",Food & Beverage,22,112864.26,10685,40,67,4,1,0
+5ae6a161-377d-40a5-a97a-17135a8dc404,"Morton, Sanchez and Woodard",Fashion,18,74843.79,13749,11,30,4,3,0
+8e6b0800-0f9b-4087-a856-abb8e902e7c3,Campbell-Carter,Fashion,12,140472.78,5460,6,28,1,0,0
+11d453d4-7b60-47a1-a0f1-316c0fd05eb6,"Young, Wright and Morgan",Electronics,95,85556.61,20144,21,92,0,8,0
+5b17f150-414d-4d76-a121-864276e935cc,"Crawford, Smith and Jacobs",Electronics,17,129884.79,30232,31,69,0,5,0
+6ef73b17-875f-40f9-8e56-6f3df3aebb90,White-Howard,Home Goods,86,111159.24,35668,18,64,1,6,0
+9e1eebb1-5f7b-4aa4-a80f-37a88f98c909,Ward-Collins,Fashion,23,267265.98,15942,12,50,3,5,0
+225463b2-41a3-47fc-99bf-e5797d26ca9e,Gallagher-Miller,Electronics,46,133370.25,49526,11,32,0,2,0
+b87a4874-895f-4ed7-b69d-78db97b22267,Guerra-Ford,Home Goods,69,160031.56,5078,8,49,1,6,0
+25a8416d-6db5-48e3-b5d0-80d0592294a1,"Sloan, Kline and Obrien",Electronics,76,76038.01,29875,21,11,3,3,0
+616cfcf1-5e08-4436-b74f-96c944a000e4,Ellison-Stanley,Electronics,82,52945.64,11369,10,45,2,7,0
+43e33cbc-4e48-4494-9491-37415f6fa0f5,Sanders-Peterson,Home Goods,83,162212.02,36275,2,48,1,5,0
+27a8d865-0fc0-47eb-8cb1-fbf6d5ac1141,Harris Group,Electronics,80,50334.39,22178,8,61,1,3,0
+d3a8ff53-83a8-4095-ad2c-e8aa83cc9894,"Long, Ward and Valencia",Fashion,84,198093.81,12506,40,33,4,5,0
+281c1d6d-9aff-42fe-b9fe-ed61b57d7e65,Lane-Campbell,Electronics,5,69341.55,30692,1,38,3,8,0
+35115b34-1684-4092-80f0-23d8177f9602,Jimenez Inc,Fashion,8,53794.14,12293,19,40,1,1,0
+16f96577-7fdc-4f63-9ac4-0ce5f558b4ea,"Dominguez, Faulkner and Nichols",Electronics,5,110242.73,6836,17,42,2,8,0
+35d9f156-096e-456e-bed5-3e05dc3fdddb,"White, Avery and Stanley",Food & Beverage,4,54564.1,9979,22,55,0,1,0
+ed6a0232-984e-4c5c-bfad-a16f12c58c8f,"Walker, Williams and Fleming",Fashion,47,146038.58,30223,33,80,2,8,0
+30d09810-46f8-4a2b-859a-76669253879e,"Ford, Diaz and Smith",Food & Beverage,44,102511.62,46195,28,76,2,4,0
+6e68795e-346b-4435-a42a-a4e6e42139ad,"Mason, Wiley and Torres",Home Goods,31,172488.09,40589,10,47,4,3,0
+1993fab6-cb6d-49df-8155-387d2c49ab03,"Luna, Alvarez and Foster",Home Goods,11,121082.98,46431,36,54,1,8,0
+2ac83192-f6b3-4ad5-8ec1-ab25c93d0b8d,Nelson-Smith,Electronics,79,68946.86,47013,27,36,0,7,0
+4e7d86bb-e02f-4187-bcca-3cc55d678ef6,"Taylor, Stewart and Coleman",Electronics,47,116542.86,6643,30,41,2,2,0
+0b2ae935-a11f-49f2-b451-bd287102cdea,Dennis LLC,Fashion,59,89425.52,15802,15,77,3,2,0
+d0d8be6e-2950-4503-862a-afa794c8500a,"Thompson, Hancock and Mendez",Home Goods,80,93894.17,26775,39,42,4,4,0
+75afa824-9c65-406d-a279-b20083d04513,"Proctor, Pierce and Wyatt",Electronics,25,103857.61,43619,46,78,3,7,0
+54863c8e-39ce-4cbd-971b-2e2e1ce391f0,Odonnell-Webster,Home Goods,72,107887,8838,21,87,0,3,0
+1d36a589-6958-4592-8c81-9c853740fb34,"Suarez, Burton and Walton",Home Goods,78,133289.18,10131,41,54,4,2,0
+9d4211ed-d0bc-44f8-bf47-74741872e4bf,Martinez Inc,Electronics,26,136367.76,14038,22,38,2,1,0
+bebe5878-58ec-4f14-82f5-0cfc3112c956,"Pennington, Walker and Nelson",Home Goods,53,110344.64,7354,10,10,4,0,0
+9f6accef-0d03-447c-a793-74318a0f80b7,Johnson-Hall,Fashion,17,136972.93,21992,15,46,2,7,0
+a8121945-e61b-49e8-9a00-b9edb1780cea,Thompson-Miles,Food & Beverage,23,188800.93,15717,17,34,2,4,0
+04944742-3cd5-4011-9112-546177089cee,Nicholson and Sons,Electronics,80,27674.51,20070,22,77,0,0,0
+9026ad31-9efb-4129-b31c-3fa07e0b8466,"Waters, Gray and Mcdaniel",Food & Beverage,56,82454.15,16695,36,52,2,9,0
+fc38d02c-6284-4058-872b-1816e60826d2,Baker-Dawson,Fashion,73,126729.97,25034,31,27,0,4,0
+950da1bb-a6d8-4837-8d5c-45cd32648b39,"Martin, Lester and Byrd",Food & Beverage,30,143309.35,9056,43,60,4,6,0
+4e71cf05-5550-4c35-93fd-3c317368e763,Long Inc,Fashion,91,50153.05,12895,44,38,2,8,0
+f457f0da-3136-4007-bed0-905967ee1c76,"Davis, Scott and Hicks",Fashion,74,92229.3,45142,3,71,1,9,0
+c1078fe7-5901-4b21-a4b1-99cb4da145a7,Kim PLC,Electronics,47,1333.06,24711,4,55,3,4,0
+f38d7960-4eb4-4ad6-ba79-fc58ab512cc6,Shaw-Horton,Fashion,11,92469.92,5108,32,76,2,7,0
+c7f6523e-9cb1-46f2-b6c2-da5abcd243c6,Wang-Reed,Home Goods,9,196148.75,35389,15,1,4,4,0
+30e73f29-6065-40d0-a2a1-d8f156956f3e,Greer PLC,Home Goods,31,88866.86,39869,21,25,3,5,0
+66d4a6ee-a065-40a6-9ec3-22746159ac8f,Cannon Ltd,Food & Beverage,65,74085.45,21342,22,28,4,3,0
+fbb7a78a-4006-4e33-ac1a-b7c74df1ded6,"Cook, Barnes and Sanchez",Electronics,28,131533.53,49186,27,13,2,1,0
+858449e8-ed05-4c59-83aa-0cc943eb26c4,"Graham, Rios and Gonzalez",Electronics,7,143105.82,21768,3,40,2,6,0
+eaee47e5-d506-4a7e-8e1c-cf078ba97549,Kim Ltd,Electronics,12,141845.74,10169,14,54,3,8,0
+73f945ca-f6b2-485e-8798-d70bf13267bf,Shah-Carter,Electronics,22,124480.32,14814,22,69,3,8,0
+f4c6cb6d-3869-439b-9ba6-54f7df75939d,Wilson-Farmer,Home Goods,99,146938.31,8626,32,49,1,2,0
+123125b7-f6af-4fba-b515-0930ebcaa16d,Weaver-Edwards,Electronics,77,107942.45,26371,32,26,4,6,0
+61ec4fc9-f2a7-422a-9895-5aedf67e1c81,"Hogan, Thornton and Fuller",Food & Beverage,56,89906.72,28849,24,61,1,3,0
+d95417ea-5ca3-40f6-b382-a89bd67810d2,"Dodson, Shah and Moon",Fashion,46,184488.21,44325,32,57,4,7,0
+1ef27651-b707-4bd5-af7b-624c5b1e66dc,Gonzales-Hughes,Food & Beverage,40,145737.34,8512,7,25,3,2,0
+5958f316-773c-4af5-ad87-b0d5d4845d02,Gibson and Sons,Electronics,8,126861.59,22827,46,17,0,5,0
+5cc649a1-0be3-4d49-a8ea-e7bcd04152d0,"Michael, Johnson and Campbell",Food & Beverage,81,58251.58,43619,4,68,0,4,0
+4f454f3a-51ba-4084-95b7-1ef555ad1987,"Craig, Vaughn and Rice",Home Goods,64,55143.78,21128,26,38,1,5,0
+783be83d-dd27-416d-b1b9-b09d0a007cab,Cooke PLC,Home Goods,42,160455.4,38027,17,67,4,0,0
+61c9524f-5522-4f23-b3d7-a27ee3f14f71,Calderon-Kent,Food & Beverage,50,132435.48,28492,14,53,0,2,1
+4d6185ef-d71b-44b3-9da8-059f5e8d786e,"Parker, Huerta and Robertson",Fashion,92,69947.85,44309,31,74,3,3,0
+e0bcbcaf-277e-4979-9e65-5d5d2f1b5cf1,Rivera LLC,Food & Beverage,54,64389,46756,11,23,4,7,0
+f10a55b2-08ac-4196-a14e-81d328c6f7fa,Walker PLC,Food & Beverage,56,131032.66,13337,43,93,1,0,0
+761ee22f-e668-4ce2-92d8-4619815a9b6c,Jackson and Sons,Food & Beverage,29,-35598.48,46271,6,50,4,6,0
+2e608fe3-fd6f-449e-ac96-54879b382c60,Rice Inc,Fashion,50,16915.89,25721,1,60,3,7,0
+91b9c041-bdca-49b0-b038-d49747517c1c,Christensen PLC,Food & Beverage,38,73512.57,10781,33,68,1,4,0
+34478abc-7f5b-4c0f-a876-943aface4133,Holt LLC,Fashion,85,205019.52,27951,18,37,3,3,0
+a6070787-d407-4623-baee-c05263e42578,Moreno-Miller,Food & Beverage,30,26905.47,24909,46,36,4,7,0
+061d9d43-3a04-4901-b908-56fe86294a81,"Avery, Rose and Walker",Home Goods,87,145152.01,6124,9,23,4,8,0
+4c7012a5-4ee2-49ec-8ec6-1e9e61e74249,"Reese, Walker and Barrett",Home Goods,70,67719.67,27684,4,73,0,9,0
+540dbbe5-d1f1-45f4-9046-fa465781b649,Lee Ltd,Home Goods,34,116338.48,44464,2,68,0,4,0
+560c355a-55c5-4751-8d8e-76f270051497,"Hill, Williams and Hayes",Food & Beverage,25,51597.09,44511,12,47,2,3,0
+3c61bb55-4249-427f-aec2-c0b839b7ad6f,"Miller, Howell and Parks",Electronics,4,49031.1,38278,22,59,3,4,0
+da317151-ed41-421e-a5e3-80ffb9a09d49,"Gray, Williams and Mason",Home Goods,28,14321.27,19100,31,36,1,4,0
+c399a9ae-bac7-455f-9701-5642375c98af,Gay-Morris,Home Goods,95,48839.89,21912,17,0,2,5,0
+82dd9916-297f-49dd-8ab8-668bdd295dab,Brown LLC,Food & Beverage,72,156661.71,24596,35,80,1,1,0
+ccc9dfcb-9de6-4da9-aa91-76544594cb66,"Fuller, Porter and Johnson",Fashion,81,136950.79,17783,29,23,4,4,0
+dbd5cb5d-6c3c-4e45-abb5-3cbb217b68b8,Perez-Robinson,Fashion,56,96778.94,45825,2,11,0,3,0
+fdb46a13-d976-4d6f-b413-6ba1362a72df,"Rose, Thompson and Miller",Electronics,48,113702.99,47051,30,41,1,9,0
+46c8c462-dbd2-4235-b8a8-d6b7c4ae6b2e,Day-Valenzuela,Home Goods,51,205225.78,21883,23,52,1,6,0
+6ae215a2-2919-436d-99e8-fa719dc17fc4,"Thomas, Simpson and King",Home Goods,76,147930.85,39059,40,26,4,4,0
+2dd997c0-5b8c-4401-ae1b-0ed3bb28792d,"Smith, Bailey and Smith",Food & Beverage,33,108495.66,22373,31,56,3,4,0
+6996b800-511c-4585-a7ff-d749b6157760,Drake-Elliott,Electronics,55,82178.38,47561,32,47,4,2,0
+2efbef84-1796-477f-ba4e-54fe8b505b7a,Weiss-Mayer,Fashion,59,-12197.04,26760,11,67,3,8,0
+cd0df08e-ed90-45d5-b81d-15ef50f1e4c1,Mcgee-Luna,Fashion,29,91326.83,19758,2,16,3,8,0
+467bf107-1b6f-42e8-a9cb-775428f5c6a3,Cortez-Martin,Electronics,41,141290.43,23922,4,41,0,1,0
+85f5a0a3-8483-4c31-acfd-9a81130aa3cf,Martin LLC,Home Goods,22,67527.5,27266,39,16,2,5,0
+53097a97-90d4-4122-9f5f-ec73371866d2,Howard PLC,Fashion,72,87807.21,29321,13,81,4,6,0
+191eadb6-d21d-456e-b1dd-9bc7ff40525e,Richards-Day,Food & Beverage,21,34958.58,39241,40,37,2,4,0
+69a3d1fd-ac38-4436-ae95-c193406080b6,Henson Inc,Fashion,56,64123.57,10204,19,57,2,2,0
+4bbd6f2f-f7d4-40a2-b013-ab6f13620be4,Donovan-Meyer,Electronics,6,122828.37,49722,47,70,3,2,0
+1da4d204-8034-4a1e-af2a-fb8ca10e144a,Robinson Inc,Fashion,22,84342.21,39004,26,45,1,3,0
+546b521f-512f-4e8e-bbd9-46d701497a52,Gomez LLC,Fashion,75,84223.96,26682,22,43,1,0,0
+99001809-3158-4d69-a89e-a878615f5fd0,"Hurley, Jones and Collins",Home Goods,15,18387.75,5682,15,33,4,2,0
+52bd6c73-fba0-4707-942e-aa39ef1daabc,Juarez Group,Food & Beverage,55,156771.1,24768,9,49,0,2,0
+db3ceebe-da2d-41c4-9c98-de94f642e827,Wright-Le,Fashion,37,13704.62,42516,11,55,3,5,0
+5c8d476a-c090-4ed7-84fa-43f8efd0d5a1,Mendoza LLC,Food & Beverage,88,99074.08,41256,15,41,0,9,0
+3b4e8c7b-1554-4c6e-9103-a77c8a278e7e,Barrett and Sons,Electronics,85,93395.11,32465,11,40,2,7,0
+4b2053f3-10f4-40f7-9edb-cf911518a154,Burgess-Flores,Food & Beverage,95,155052.85,13947,23,58,2,0,0
+81511af8-2079-4be0-8621-4725d870862b,Carter-Ryan,Home Goods,69,135214.15,18226,8,75,3,1,0
+8ba66201-d479-4aca-87c2-36797821156c,Nichols Ltd,Fashion,97,43437.97,27844,9,13,3,0,0
+9a0e44ee-7948-4d1b-ae0e-69e4d9abae47,Roth PLC,Electronics,79,86235.5,37807,31,85,3,0,0
+83965e4b-8cc4-4ff9-9669-622e33a131c7,Andrews-Hardin,Home Goods,93,35050.02,46975,33,83,0,8,0
+fd1e90ca-f556-4594-92ec-7c492d45997a,Rice Inc,Home Goods,20,160754.93,44965,31,26,0,0,0
+10fd42f1-16e0-4e4b-83f6-1c73bf78e323,"English, Wells and Bell",Food & Beverage,22,142501.53,33467,40,57,1,3,0
+b988e280-ed86-49fe-8a7c-d7f095b8913c,King LLC,Electronics,56,-15132.29,46483,14,29,4,4,0
+99fd7fb7-8c7b-4eac-854a-9421df70e467,Santiago Inc,Home Goods,34,124338.99,26588,24,17,1,2,1
+d0e58cbc-3978-4f66-a19a-ea7e14618c39,"Roth, Reed and Curtis",Electronics,39,124730.65,42007,8,50,2,7,0
+d6c6fd2c-e32e-4163-b94f-90444f4267bb,Duncan-Dunlap,Fashion,61,37442.31,36175,33,69,4,1,0
+d5a04fa8-15ce-4aa8-a1a2-c0a72f56cd6b,Bowen-Anderson,Electronics,5,94340.22,40824,15,41,1,2,0
+d39ac5c6-7641-4328-8034-b91604ccc3ed,"Smith, Peterson and Shaw",Home Goods,60,50602.67,43260,9,72,0,2,0
+7a86a679-9335-48cf-88c0-e2f550d22d0c,Garcia PLC,Electronics,15,12857.05,6131,38,28,2,2,0
+83140836-15d1-4806-96db-8625372b5fc4,"Hinton, Gonzalez and Harrington",Home Goods,98,164665.39,14535,8,55,0,6,0
+23b6688b-ade3-405e-ac66-38e1e5d7a0dd,Navarro-West,Electronics,27,97254.88,24532,4,33,0,6,0
+89fdfac4-238b-4ab5-9883-771415d59e05,"Wheeler, Guerra and Herrera",Electronics,91,80079.61,29709,36,64,0,2,0
+9b8f0054-c755-49a4-9193-1362f5742f5e,Jones Ltd,Food & Beverage,96,56108.52,14000,42,42,2,6,1
+e851f64e-d24a-460b-ae07-eb739eef24bc,Hernandez-Stark,Home Goods,28,79701.13,40744,15,73,4,3,0
+1af697e7-df1b-412d-b949-ede8f103ed21,Hernandez Group,Fashion,50,86040.78,33190,11,38,2,2,0
+ceb8f475-c894-45b3-b1bb-a6c386b51e86,Russell-Shaw,Electronics,98,25190.3,28220,36,22,2,4,0
+815641a0-8e33-48ae-8ad7-5460a7b49eb8,Williams-Chambers,Electronics,73,53108.01,38837,20,47,0,9,0
+129e96fc-0e5a-4981-94f4-2f3f319cdebb,"Hodges, Chan and Thornton",Home Goods,1,18945.23,42278,6,62,4,4,0
+f52fd99a-2cc3-4703-a571-995902121516,"Robinson, Banks and Daniels",Food & Beverage,89,56470.16,37678,5,85,4,8,0
+ed366c1c-6dd4-401b-869e-43f8e9f72fd9,"Weaver, Johnson and Roberts",Fashion,86,173764.56,20339,19,50,2,5,0
+835deaed-15ac-4d94-b2c5-c6cf733a7bac,"Silva, Rush and Henson",Food & Beverage,81,55598.49,20799,4,67,2,4,0
+fd77eab2-aa27-44b5-834b-22b35418b106,Bell Group,Home Goods,22,107033.87,48582,22,45,3,9,0
+4605d34a-5025-465a-b80f-630fa9164f8c,Cox-Phillips,Food & Beverage,50,92393.55,27764,40,27,4,7,0
+92e5efa9-3294-4ec6-bef2-017b9ec9884f,"Dodson, Ramsey and Humphrey",Food & Beverage,54,159566.11,9122,44,59,1,1,0
+9cc9c5ea-01ca-4d7e-9423-4a4db5c796f4,Marquez and Sons,Fashion,31,81547.02,40441,4,85,4,2,0
+231b66f8-e255-40cf-8ac1-16251c0adc56,"Boyd, Hall and Smith",Home Goods,29,47731.71,48963,41,32,3,1,0
+5ccc3041-2c2c-4ab3-9cd1-6e7441d9a0ea,"Davis, Bowers and Reyes",Fashion,49,17206.43,20782,30,43,4,9,0
+d62d8289-64b4-45f5-8cc7-794cb1ae9e83,"Russell, Kim and Bates",Home Goods,33,1676.92,8139,39,61,2,9,0
+fcfe4817-b6bb-4155-afe0-e1fe14253a66,Pierce Inc,Food & Beverage,72,129924.64,39651,42,54,2,0,0
+3fd27027-b74f-452c-af94-6fb2faabf84f,Moore-Haley,Fashion,79,20247.83,10026,14,52,3,8,0
+41b6191a-4850-4066-bc3f-b2c2e0982c49,"Campbell, Baker and Ho",Fashion,91,56799.69,17777,29,20,4,7,0
+a18ecbd1-f61d-4efe-9c53-a2d5ef38c363,Rodriguez Inc,Home Goods,97,99916.53,26075,16,27,3,9,0
+3d166b50-217e-4bb2-bbd2-61de3f3beccc,Roberson Group,Food & Beverage,84,79016.23,10744,22,45,3,8,0
+e6622e7a-9c75-4a29-9af7-8548cc3192b9,Tucker PLC,Electronics,51,127797.14,20532,11,71,0,4,0
+7bc824d5-2450-44e3-a5c7-8552a522d8e3,"Caldwell, Dominguez and Velasquez",Fashion,35,79248.41,12820,42,12,0,6,0
+2e41d68d-1a06-4e01-aa3c-562e524f136c,"Wilcox, Moreno and Crosby",Fashion,12,34333.09,45443,8,62,4,4,0
+997ebf40-c8f0-4005-8039-cc419513b08b,"Jenkins, Kaiser and Porter",Home Goods,10,33515.74,13666,39,25,3,5,0
+90565fb0-4697-4f95-962d-42a11e7447bd,Paul-Johnson,Home Goods,43,166502.29,16202,3,43,1,7,0
+0aed2fba-f907-4a36-ae5a-3fe681c170e1,Morse LLC,Electronics,1,40604.15,27785,24,89,2,4,0
+6c35ea4e-e3a4-4286-808b-78302b2928a2,Moore-Lam,Electronics,60,102016.21,48344,17,35,1,0,0
+e4fcac35-5acd-4b1d-bb52-75821619e0e2,"Bautista, Thompson and Preston",Home Goods,64,125785.91,29275,32,24,0,6,0
+6a16d7ce-d8bc-4080-8049-ab79a847d028,Esparza-Ramos,Fashion,68,32742.02,9923,6,26,2,5,0
+2b368de3-cc2d-4eb4-a09d-b27f41292118,Melton PLC,Electronics,86,79969.91,28856,40,58,2,9,0
+1be1da14-630b-4b18-8885-3c8ebdf6bef3,Frazier-Coleman,Fashion,72,62789.25,31605,43,28,2,3,0
+561ad617-6e9d-4602-b427-2a0c4aef0d84,Benton Inc,Fashion,58,128050.74,27882,47,68,1,0,0
+983cba3c-6a4a-4f45-8b02-cc5cab916b7e,"Thomas, Larson and Green",Food & Beverage,93,146576.18,9058,11,21,2,2,0
+1e727c2a-6bc5-46c3-bfce-ecc0db33a946,"Wilson, Munoz and Williams",Home Goods,64,-7303.12,34088,14,72,1,1,0
+943d089f-3f8f-4a8f-ba2f-7e20941d5b07,"Cruz, Conrad and Parker",Fashion,17,7220.08,46905,37,74,0,8,0
+cc2e5677-2c5d-4c72-8c7a-e23e30546af4,"Cook, Smith and Rivas",Home Goods,88,116040.08,19140,18,37,0,6,0
+4dbc2657-de9e-4d30-b68b-f751d973f22b,Reed-Martinez,Food & Beverage,13,132556.03,30504,11,51,1,4,0
+04371f10-96d0-4ba8-a255-e52a34f2e0b1,Gates-Turner,Home Goods,43,59805.98,5354,27,51,1,2,0
+1a8e67df-0154-4aaf-97d2-28d8d288abcd,Ho Group,Electronics,43,169325.29,44316,46,41,0,5,0
+6011f6ec-98bc-4fc0-8a79-50ffd330d135,Bailey LLC,Food & Beverage,16,181090.57,31326,35,65,4,3,0
+a4da41e2-114d-4865-a7af-68a3e3318f38,"Foley, Mitchell and Conway",Food & Beverage,74,90753.27,14619,32,47,0,6,0
+2cb31313-4557-42de-baa1-9f139ed09b1e,"Rollins, Pena and Lee",Food & Beverage,73,96153.93,34633,7,40,4,7,0
+64b4498c-c135-4fa2-a288-b58cf6da1e41,Hernandez-Martin,Home Goods,26,100003.77,29039,24,53,4,6,0
+e29a0195-c3a8-49db-8ee1-3d35c81bac8a,Miller LLC,Electronics,83,215876.85,21122,20,58,3,9,0
+63f8b01e-1efb-4f8a-9ab1-00c8ca7058c3,Pennington LLC,Food & Beverage,90,71887.74,17737,47,42,3,6,0
+21119a0c-1d62-41c6-a6e5-38354fc6a2fe,Krause LLC,Food & Beverage,32,160213.49,29429,33,84,0,1,0
+9e261400-73be-4fad-83c8-1b53820bf05a,"Kelley, Aguirre and Austin",Home Goods,96,168286.44,39317,14,47,2,2,0
+98954ea4-7918-47ca-9ca2-9732d98a43b4,Hopkins-Garcia,Electronics,85,94260.22,7836,46,34,0,9,1
+98bf2f32-fb1a-424d-ac27-80ba0ad5236c,Velasquez Inc,Electronics,85,97261.79,14864,5,19,2,7,0
+2792bcc9-3685-462d-942c-f9b6bc2e0223,"Ochoa, Turner and Watson",Fashion,38,151115.69,10455,38,52,1,0,0
+5543208b-bccf-4aaa-bbb7-592d5a39e53d,"Jensen, Moore and Kirk",Food & Beverage,37,156130.77,48187,7,69,0,2,0
+efb58d98-6353-45a5-ae7d-a1fc12d448e3,Lucero Group,Fashion,57,53370.02,34523,33,52,2,0,0
+741cf252-525c-4b30-9098-619384ac5c9a,Morgan Group,Fashion,39,167704.65,11794,4,51,1,4,0
+d6f4195b-e3c1-4354-a0ee-d504a25a1e27,Wright-Santiago,Home Goods,96,114938.4,37788,29,29,4,3,0
+b4091062-bcdc-40af-b5c7-6d639196796f,Mack PLC,Electronics,55,142561.63,35819,17,83,3,6,0
+207a2439-5ab4-4fa9-8c6e-938fd24e12a2,"Gregory, Quinn and Richard",Electronics,7,68522.92,12340,42,46,2,6,0
+f9662b58-84e0-4749-9928-a2b2709655c9,Lopez-Fry,Food & Beverage,47,38267.77,36570,47,53,2,5,0
+a6b694e7-978b-4bd6-bbc3-7187ea509bcb,"Dean, Wallace and Hicks",Fashion,37,40771.1,22312,1,106,3,1,0
+8c5990f2-bb81-4ce8-9568-9854ec699561,Perez LLC,Home Goods,57,60474.57,40011,3,57,4,7,0
+0c4d9724-00da-46a2-a6ec-4ec5f872c074,"Taylor, Meza and Johnson",Electronics,37,125489.59,39665,30,62,2,3,0
+7f3db5c1-265f-4277-8bbb-9ecc74d1416d,Armstrong-Rangel,Home Goods,50,44627.86,10105,8,38,2,4,1
+74c31e68-250e-41f5-a24c-2644658d47de,Key PLC,Food & Beverage,85,109589.09,38602,42,54,3,8,0
+11df1ce4-d429-4e72-9d11-55aed078e491,Smith-Carpenter,Food & Beverage,87,143146.31,30946,13,55,4,9,0
+4201e8fe-6792-424f-b779-b5d4d6508033,Green and Sons,Electronics,12,74997.63,46979,41,15,3,8,1
+d37e043d-43df-4538-a246-05bb55ac3d73,Wright PLC,Home Goods,48,148249.54,27140,45,31,1,3,0
+6284ae57-6000-402c-a694-50d41edaf636,"Kelly, Diaz and Wilson",Electronics,48,107934.15,26145,5,63,1,5,0
+66e197be-b27c-4d28-8b68-9246b83fd6fa,"Adams, Russell and Wheeler",Fashion,1,198912.22,9187,17,23,1,7,0
+70fcb7d9-ba40-494e-a3cc-330dbbbe903a,"Williams, Peterson and Graham",Food & Beverage,82,145965.77,8840,2,3,1,2,0
+b3a9364c-ad98-406c-9208-491cda3ec51f,"Patel, Wood and Romero",Home Goods,87,56633.51,9111,12,42,4,4,0
+8007dba0-8706-4a0c-91f6-24a71091eac3,Dickson-Ponce,Food & Beverage,97,140248.99,12739,34,75,3,5,0
+e92d438b-e240-4a5e-b780-a8f2371c822e,"Williams, Acosta and Watson",Electronics,37,89958.72,34324,3,32,2,5,0
+056531fb-9cc0-4136-a6d1-188cac35ff5c,Kennedy-Jennings,Home Goods,21,70952.04,7768,4,32,0,2,0
+72999b44-42b6-4985-a17e-e1532ca65d55,Young PLC,Fashion,71,144615.13,24135,43,42,3,2,0
+b35255d9-d065-4c55-a18d-dd1ade2d2b24,Short Inc,Electronics,57,131198.51,41195,47,72,3,6,0
+2b0f633a-6f6a-40e9-9fc4-2bac3ce73dc0,Hamilton Ltd,Food & Beverage,36,179074.99,25479,16,63,3,2,0
+721e3c71-f072-49e5-b0dd-4f2ec50d0bb4,"Olson, Atkinson and Conway",Electronics,11,98828.27,45406,9,36,1,3,0
+9de58065-395d-4581-b78b-969733f2226f,"Thomas, Randolph and Young",Food & Beverage,55,68207.71,20729,12,25,1,0,0
+d68cc230-48cc-4690-8332-77d3bd1550c7,Turner Ltd,Fashion,83,48383.3,37011,7,57,2,5,0
+4d6caf4f-9744-4ac4-b161-d6bf6ff72f9a,Turner Group,Food & Beverage,9,132350.1,9610,5,45,4,2,0
+766b8551-a183-4c8e-8b30-1248ea9e3fa8,Floyd and Sons,Home Goods,6,59224.27,8410,22,43,0,7,0
+bda4ed30-5cf9-45d5-b68c-048a8caacc19,Campbell-Harris,Home Goods,55,115160.16,44003,18,34,2,8,0
+e9a08290-3a55-432f-8280-247b3a49a75b,Anthony-Carlson,Electronics,20,102638.06,18296,45,23,2,9,1
+6fbffe0e-d670-48cd-912b-e59c7b93842c,"Shea, Rowland and Boone",Electronics,32,90995.08,36680,28,56,4,5,0
+73d44ac1-da6b-4df1-9dd7-0f1e9d17682c,"Campbell, Cabrera and Perkins",Home Goods,53,173250.06,35724,44,60,4,6,0
+86f9394c-3fc1-4d60-ab10-05ec4e9cfe97,Lewis Inc,Home Goods,92,82078.32,48997,26,63,1,9,0
+4730cbc9-1650-4bef-8f1c-1b6bea3b8f53,Callahan Group,Food & Beverage,78,146370.44,27892,23,0,4,7,0
+6ed4dd2a-99b1-4393-80a0-668213c33f26,"Galloway, Lee and Mcdonald",Fashion,60,94627.12,7225,34,44,4,6,0
+835eb007-5edb-4fc2-b276-2b04d6dac53a,Wilson PLC,Electronics,19,60958.78,6986,23,52,2,4,1
+6e429e82-dd9c-42bc-b3f1-113f72a225f3,May-Allen,Home Goods,94,123061.57,10015,14,62,4,7,0
+df8df8ac-6b69-4a6b-8e44-40159c25b0a0,Whitehead-Romero,Fashion,45,67617.59,7301,15,48,0,2,1
+2b2a4e96-51f4-4b37-a1b1-b6b2be575803,Moore PLC,Food & Beverage,92,182525.13,21039,39,47,0,8,0
+987723e5-1ce2-4c1a-9d1a-1ca759402186,"Lopez, Carr and Wyatt",Electronics,1,144138.48,23440,36,24,1,1,0
+209dcb97-e0b4-43e4-b5fe-2bbd970edc68,"Armstrong, Dixon and Murillo",Fashion,13,133261.12,28944,13,60,4,6,0
+8e2eae97-caef-4767-8ff0-ec3881d6f791,Diaz PLC,Food & Beverage,9,187976.38,30785,9,64,3,6,0
+9bc77057-11eb-459e-81f6-e16d8fa29fbd,"Watson, Savage and Crosby",Electronics,8,91053.57,19774,44,37,3,7,0
+22d92109-5a6c-4770-9759-9658cb3b292d,"Flores, Williams and Smith",Electronics,26,138125.5,29803,10,25,2,5,0
+b9284fc4-1103-4b18-806a-76d0fef9da85,"Barron, Ryan and Olson",Food & Beverage,51,84211.3,25191,11,59,2,5,0
+507f081c-7f12-453b-9ae3-6d27b44e3c52,"Martinez, Rodriguez and Garza",Food & Beverage,46,107927.93,41281,13,50,1,0,0
+5c0f1ee0-cd7b-4aff-8252-27a581bbc0c1,"Dixon, Cox and Johnson",Home Goods,99,76970.6,36176,40,57,3,4,1
+bcd53dcc-ee07-4e33-a9d7-3e1d40a441ae,Wilson and Sons,Electronics,27,91819.78,47715,33,60,4,1,0
+54158fd8-7f19-4cb4-8346-f70e9dabded8,"Hunter, Acosta and Nichols",Electronics,60,114136.02,31019,8,36,4,8,0
+07171658-a477-44c1-8ae8-24e00a235f93,Bailey-Small,Electronics,74,57305.07,16982,14,36,2,6,0
+28957ca1-b789-4678-9138-6031d4e15e40,"Smith, Harmon and Dawson",Food & Beverage,38,42598.49,31899,34,47,0,7,0
+d338289f-e585-48da-96c0-666f929c9e4c,Bowman LLC,Electronics,92,67227.7,43349,25,69,1,5,0
+178a0f68-c1f2-40bd-bd31-bba0e6c0b980,Sanchez-Willis,Electronics,17,159969.09,37083,35,50,4,6,0
+75e287b3-4fee-4a04-b297-313a9fe2fc5d,Wagner Group,Food & Beverage,67,75882.92,13538,47,67,2,9,0
+353f4d0b-b9f0-4d6b-9c8e-bced54cbda74,"Martin, Edwards and Cunningham",Food & Beverage,63,214623.55,6455,7,65,4,8,0
+d81c6a29-3176-42aa-991f-b84c2f5ae1ec,Jefferson-Martinez,Home Goods,71,96996.28,36994,5,31,4,3,0
+80e47dab-cabe-45fb-b741-2a457d246b0d,"Williams, Ayala and Molina",Food & Beverage,8,96339.44,20457,38,68,3,5,0
+99707ca8-b8f6-4b13-9b80-e8a0b13dc485,Little Group,Fashion,80,6407.81,8480,20,57,0,3,0
+9726845b-0088-4c11-af79-1e39ae52b90f,Patterson-Cooper,Fashion,57,114263.77,27791,15,51,1,7,0
+5f44eea6-6113-463b-b9bf-596eb77ae06c,Ponce-Lane,Electronics,50,86041.58,28277,29,52,4,1,0
+1ab69e4b-b341-4a4e-a864-d63cc8452790,Walker and Sons,Fashion,6,203059.49,47219,39,9,0,4,1
+8147860c-abcd-4830-a39d-d36b3e272f00,Johnson Inc,Fashion,28,117653.83,30425,33,50,3,6,0
+909b2f77-dda2-4953-982b-fc736e8abf91,Phelps Group,Home Goods,24,103550.32,48179,35,52,2,7,0
+5d88cc4f-0d04-44cf-ba73-5fd422b55c05,Powell-Richards,Home Goods,52,50499.12,42962,43,45,0,7,0
+22ade845-834b-4b9d-8575-e0bd53b65ea4,"Wall, Garcia and Morales",Fashion,6,59913.85,34039,9,91,2,3,0
+26e83afb-2f66-48ba-91ea-a01423f540b1,Lopez and Sons,Fashion,58,128021.94,42250,27,44,0,9,0
+c4861c2a-8a93-4087-86a6-413f9b5c22fa,Williams-Bailey,Home Goods,25,142393.99,36309,34,63,4,8,0
+8ea03278-e7a6-4a60-a13f-327dfafbb754,Galvan-Baldwin,Electronics,12,43725.81,42973,24,57,3,6,1
+09066f3c-9e3b-4eb3-8b39-63f9fe1ca842,"Bowen, Howard and Olson",Food & Beverage,6,156087.46,30509,30,44,0,1,0
+53de84bf-1ae4-4815-baf3-bddc98e765c6,Mcgee and Sons,Home Goods,78,137599.08,29639,23,88,3,3,0
+be9d062f-cca5-4efe-92d5-2f602e1b73ce,Pena and Sons,Food & Beverage,3,62190.79,46287,5,25,1,5,0
+20ed561e-8e86-411d-98f3-c3188f3d4706,Murphy Group,Fashion,74,100647.18,16428,41,31,1,0,0
+50b42903-fbd3-4d04-bfad-d420f77386fc,"Huffman, Macias and Smith",Home Goods,91,61182.01,8246,33,65,3,4,0
+ea1a3043-2a54-414f-8c4c-eaf631a7a076,Whitaker Ltd,Electronics,82,51136.27,19672,21,36,2,2,0
+acd377c0-eb7f-4586-87d1-1c32c992914e,"Martin, Young and Bright",Electronics,57,103014.48,14245,21,39,2,3,0
+6c1933fc-7ea5-4389-ab98-6a587fb1f17b,"Harper, Kelly and Davidson",Home Goods,29,50596.76,38936,35,43,0,0,1
+d4f21e5d-7a13-4fb7-9902-6d9c971e11a1,Fuller and Sons,Food & Beverage,66,-15990.71,19287,46,69,0,2,0
+03bb8176-9dac-497d-8231-a70d90a6fe1a,Wallace Inc,Fashion,35,82692.84,25342,38,57,2,3,0
+e90731e6-aa37-4ac4-bc7d-5a6520cb570e,Smith-Chavez,Home Goods,89,131606.39,17409,45,61,1,4,0
+2dd3c839-4999-44e2-a485-cd82e9d05def,Patterson Group,Fashion,73,126952.08,11974,6,60,0,4,0
+26ff9398-b05f-4a01-aa07-ebeeb90c1c04,Ayers-Murphy,Fashion,44,114209,44782,1,42,3,7,1
+d562eb47-d5cf-43d0-8a17-245739b2aebe,Richards-Clarke,Electronics,52,131382.62,13534,3,24,1,6,0
+cd18b12d-ce56-4ce3-8b3a-4325f854cc57,West-Evans,Fashion,8,62732.15,34929,8,42,1,0,0
+2cfec59d-431e-4e2e-a25e-f19aa3c629a3,Roberts-Knox,Food & Beverage,88,87141.77,7983,1,98,1,7,0
+c3c84eb0-b883-486f-8efa-7051f8b62279,"Brown, Murillo and Trevino",Food & Beverage,31,9734.44,23533,5,39,2,7,0
+607d8cd3-5e82-46b9-9bbd-a1de55015a6d,Clark-Poole,Home Goods,30,93066.21,24238,32,40,0,0,0
+5e247cb6-47ce-42d5-9643-ceff0aad5ca6,Smith PLC,Electronics,6,154068.15,30165,23,90,0,0,0
+99b5d36b-0596-4524-8349-10939b246d42,"Ramirez, Gray and Hicks",Fashion,90,122717.46,40231,10,43,0,0,0
+75ab4004-793f-4a58-b0f0-f212abfa0221,Gibson PLC,Home Goods,9,31499.4,29969,35,72,3,5,0
+95aa2ae4-1e59-402f-8115-dafb7c63c2a7,Briggs Inc,Home Goods,25,-10004.23,34647,36,57,0,1,0
+77342260-7b35-4878-9f93-c6f6fcee811f,"Ballard, Martinez and Lynch",Food & Beverage,23,1662.64,31981,17,60,0,8,0
+0bf86eaa-3400-4f46-a4c6-f892245a0f27,"Drake, Serrano and Robinson",Electronics,33,89436.47,23616,31,30,1,7,0
+33fa19ef-97e4-4037-b8ad-fbba439e424c,"Patterson, Franco and Franklin",Food & Beverage,47,60214.95,40960,41,24,3,3,0
+bab75bb0-d9c6-429d-b4aa-dd126ea9ee87,Turner LLC,Electronics,93,117267.51,44747,43,58,3,6,0
+77696c55-f306-4a02-a2a1-a1cf18cd6460,Chambers-Reyes,Home Goods,26,103309.72,38998,20,64,4,2,0
+d57c362f-93c9-43e6-a8ee-3f622fdfc0b4,Hall-Murray,Electronics,65,250711.69,24107,2,59,1,8,0
+46683b12-06a2-4b7f-9ae9-05a9388b390e,"Russell, Hall and West",Fashion,69,129247.53,6136,17,39,1,9,0
+14d89083-ac7b-4b83-81fa-f91b1d01b061,Sullivan-Perkins,Home Goods,40,72493.7,49993,5,79,2,5,0
+d61c6492-976e-4200-8f09-c0f06b7dec60,Dominguez Inc,Fashion,9,80000.61,45384,38,55,2,5,0
+f416c82e-361a-4658-9171-de767ff5e839,Garner Ltd,Home Goods,92,71752.08,22902,40,47,1,2,0
+6b862a2d-eec0-425c-8751-43ab6f23c876,"Wallace, Graves and Craig",Food & Beverage,59,154440.69,33820,15,71,4,8,0
+3efb405f-a32b-4392-9345-27a54d4f443f,"Morales, May and Taylor",Fashion,46,68239.32,37651,45,37,3,1,0
+3d5b2463-3aae-49af-b908-6aa1a0c147fa,Galloway-Thomas,Electronics,22,95943.85,36741,1,65,0,1,0
+6e3b3aa3-f205-4dc3-855d-ce13734f3bec,"Molina, Baker and Taylor",Electronics,40,105163.08,14466,10,88,4,9,0
+f8c65270-fd64-4f28-be28-039d7be1aae2,"Hurley, Jones and Moody",Home Goods,19,21441.27,7386,46,50,1,2,0
+c782c940-89e4-4b4d-8e39-3105a713dc2b,"Oliver, Adams and Kelley",Electronics,60,103243.15,39370,14,71,1,3,0
+836a0be9-ec0f-40ab-9c5e-1b3b67966dce,"Bates, Williams and Cooper",Fashion,98,-9185.98,42182,34,54,3,1,0
+852d889f-44dc-45ff-845e-53b1e34dc7a7,Chavez PLC,Home Goods,78,98782.75,46892,32,66,2,1,0
+c86bd882-c608-483f-bb27-e35958a4669a,Barker-Craig,Fashion,65,262085.14,34316,7,45,0,2,0
+84109278-4691-4a47-ac63-26fc68c87960,"Robertson, Davis and Barnes",Food & Beverage,47,81428.64,9073,9,28,1,8,1
+d045e05f-dc6e-4585-977b-84151c20adf4,Frye Ltd,Food & Beverage,68,182305.01,48498,16,34,1,2,0
+cba3d8d6-0947-4adc-9aa8-165325e2bdc1,"West, Harrison and Austin",Food & Beverage,58,91010.68,17725,42,49,2,4,0
+81fab11f-a73c-4103-a837-d68eb65c68c6,Hall and Sons,Fashion,62,118862.62,18440,37,31,4,9,0
+66e59000-4800-4fd7-bbc1-c11d2d3b6a4c,Johnson-Morris,Home Goods,43,109307.3,39380,45,41,1,4,0
+78b0dd7f-1541-4ec0-a32f-af14e06c1e27,"Maxwell, Haney and Cook",Electronics,73,79796.65,33038,42,26,1,6,0
+5b847d4d-6fff-4980-93fa-dcfd3e87af68,Torres-Lee,Food & Beverage,28,172834.66,9346,25,26,4,2,0
+88e032ce-a585-4bda-926c-913cb589536f,Ferguson and Sons,Home Goods,92,73064.43,42006,3,64,2,0,0
+4c91aabc-4593-4cb6-9a4c-ff3511fc7222,"Gibson, Reynolds and Hall",Fashion,8,56081.47,13263,47,27,3,7,0
+58676bf3-93c3-4bde-9168-ddd190a2de9d,Hernandez PLC,Home Goods,45,149296.18,7360,25,34,1,3,0
+d099cdb5-f6a7-443f-932f-108783a2f8be,Hunt-Watson,Fashion,65,98140.64,10653,32,58,3,6,0
+bbba5b60-4392-4438-a78d-0874578a3dc3,Hicks Ltd,Home Goods,73,108331.85,14101,20,78,4,1,0
+a690ed8e-be6e-4d73-9704-18adef187710,Rodriguez and Sons,Food & Beverage,55,196227.14,33244,36,14,0,4,0
+9d207c4c-a41d-4aa2-bcca-f5ec0a73f26f,Butler-Dyer,Fashion,3,100398.81,13581,30,67,4,3,0
+e3f25211-ea5b-46d0-9d92-7abaf107ccc1,Parker-Ward,Fashion,4,117308.28,38277,34,94,1,5,0
+e1984aeb-7cd7-46ec-98cf-04ac44f75828,Watson Group,Home Goods,19,206798.94,17311,33,68,0,4,0
+e561b55e-f161-47b7-8e27-e0e2f6a5412a,"Graham, Snyder and Hart",Fashion,21,63284.18,11991,15,69,2,8,0
+0c2d816a-f1ec-4078-af69-ae07d6055364,Frazier LLC,Fashion,22,220241,7719,4,59,0,2,0
+33b395d7-ae4e-491d-8640-40574a45a6e4,Watkins Ltd,Electronics,90,93821.31,42386,22,68,2,0,0
+670834cd-8a76-4d5b-abac-190556ecb974,Rangel-Ray,Fashion,53,47299.85,17129,6,72,3,2,0
+d92108d8-6a88-4a76-b84a-7de888985937,"Smith, Alvarez and Oconnell",Fashion,14,57553.31,42175,33,40,0,1,0
+046b32e9-e796-4408-b948-7ee65dbfb3c6,Myers-Strickland,Home Goods,94,35992.82,14351,11,6,3,8,0
+49ab6120-a6b6-4f78-ac9f-abc4130b7ddb,"Banks, Garcia and Guerrero",Home Goods,97,63720.65,34750,44,30,1,0,0
+0ab97a14-e6a0-42a8-8c92-c849237ba442,Crawford-Pearson,Food & Beverage,87,99078.08,40862,16,29,3,9,0
+bd823b99-b4b8-4606-8bc8-2ce32a5faa6b,"Gillespie, Green and Espinoza",Food & Beverage,6,37268.14,39781,21,65,0,4,0
+086658d0-6b21-4d56-a1bd-2d32addaaa82,Williams-Salazar,Home Goods,52,111240.5,16028,2,62,0,8,0
+85a7fb8b-5520-4914-914c-59b923e201ad,"Rodriguez, Jackson and Fisher",Home Goods,52,79790.71,13723,5,16,0,1,0
+eff4c1a2-fe17-4d48-ae0c-55be0aa6a12e,West-Osborne,Food & Beverage,36,113296.9,19687,24,94,1,6,0
+82e24021-6650-4a22-9985-f0558264a782,"Walker, Benton and Martinez",Fashion,95,3782.04,31051,46,52,3,0,0
+2060be10-9f4e-483c-834a-9ec32d8c13be,Shaw Ltd,Home Goods,58,101756.38,12716,36,62,1,5,0
+55a476b3-8c96-4f13-a3d3-efe4b263ba77,"Ellison, Santos and Murphy",Fashion,49,48867.51,43389,40,70,3,2,0
+d09aac05-f9e2-4fe7-90b2-e2490c27b612,Carpenter-Riggs,Fashion,49,191930.49,6201,38,14,0,3,0
+eb746104-da5d-43ed-a6a2-4f41de2baf75,Barnett-Miller,Home Goods,85,202539.76,31199,21,55,1,6,0
+50bd6a96-9bcd-4d5b-b8e2-76884e8cf4c4,"Burke, Elliott and Cook",Home Goods,58,181959.28,14834,3,85,3,8,0
+0ac40bc6-0da0-46ba-aaf0-5b68e9c55b26,"Kim, Terrell and Nichols",Home Goods,91,90842.07,30064,16,84,0,3,0
+78924167-b7eb-4753-85bb-78b00a5c74d1,Smith and Sons,Electronics,83,6925.21,41366,1,81,1,8,1
+5fef07e8-f646-4c6a-a6d6-545caf130807,Cross and Sons,Home Goods,39,13467.28,43893,21,49,0,3,0
+ea8efae3-dc68-49f7-a25d-15acfd84c7c5,Ross Ltd,Home Goods,75,132790.42,14977,40,77,4,2,0
+3dd37495-669a-4133-8666-ec69165ecbb0,"Terrell, Burns and Nguyen",Home Goods,93,174299.58,18055,4,29,3,1,0
+6c16aaea-d12c-4c6a-a095-f51adbc72c17,Richardson Inc,Home Goods,19,52163.61,16194,39,33,2,5,0
+cd72ab92-c21a-4080-b96f-557ec7487b0a,Murray LLC,Electronics,71,140700.34,35798,34,83,4,1,0
+6cb38372-b30a-4d48-9984-52c3aac8ac2f,Hernandez-Morales,Fashion,32,81372.48,34672,2,16,1,3,0
+174bc4d4-d660-48cd-9889-099e3bbb2c8b,Mendez PLC,Food & Beverage,53,144507.24,30182,10,61,4,7,0
+c5d48961-3c22-4df0-86da-4e5d47fc1be0,"Harris, Williams and Doyle",Food & Beverage,26,166835.46,22033,41,18,4,4,0
+ef99e95e-d92e-40ea-8c75-4fd603010544,Ayala-Lopez,Food & Beverage,75,132284.7,17910,24,66,4,9,0
+bb83436d-3404-4f9a-9cc8-4461b60480b6,Deleon Inc,Electronics,68,151085.4,28750,32,50,2,9,0
+f108a2c7-28f8-45a5-bebf-feb14cf79fd8,"Jones, Townsend and Smith",Fashion,69,92538.66,27387,21,40,1,6,0
+28655a6e-dad1-450c-b7ab-2176ce0332d6,Thompson Inc,Home Goods,81,113630.84,28617,31,53,3,5,0
+28c0931a-a4da-4d64-b4c1-5dab8180b6f7,Jensen Ltd,Electronics,27,53527.28,38597,15,25,0,6,1
+c8608daf-eaa1-4fa1-a075-30d527aeb140,Miller Inc,Electronics,10,109498.68,29157,9,42,0,3,0
+2534e55a-b797-4f86-b634-7f35feac747a,Gross Inc,Fashion,16,204408.3,42274,17,22,4,6,0
+f86d2449-d01e-4328-9f2c-9cbff96a4f4b,Boyd and Sons,Fashion,2,47321.98,31401,25,95,4,3,0
+125d85b7-82a2-473e-9bbd-ccd1b4f2b7c7,Payne Ltd,Fashion,68,123560.06,49674,3,25,4,8,0
+c1eddeb8-dd4e-4bd1-ac1c-628e5d41b182,"Adams, Waller and Lynch",Electronics,35,46945.9,28295,42,53,1,1,0
+fa5e3d22-ea54-4b36-af20-563a4dbe41f7,Richardson-Vargas,Fashion,43,111454.06,28503,47,67,4,4,0
+e1cb7dd6-7b77-4158-be8e-25f9f4d36b79,Jordan-Poole,Electronics,18,78518.42,20053,14,19,3,1,0
+a88a9522-e15a-477d-a4c8-9bab7604cc14,Roberts-Mckenzie,Home Goods,40,95585.86,41896,6,27,1,2,0
+288095e8-bfd6-4580-b324-d659c6bc0a97,Jackson-Hansen,Electronics,33,127491.22,35327,17,56,2,3,0
+82e61a66-f570-4f4d-b6f4-90f5428ad63f,Smith-Carter,Food & Beverage,18,117361.88,49186,3,93,2,1,0
+64a39b2a-e125-45a0-ae35-f673bf77008f,Moon Inc,Food & Beverage,99,78432.31,20946,41,48,4,2,0
+89ea0279-47c5-4b06-a3d2-1acabee49098,Hodge Ltd,Electronics,2,134494.13,38876,6,104,3,0,0
+f9220fc1-6c3a-4370-9086-faff48538f78,Martinez-Gross,Electronics,1,168799.06,25460,10,49,4,3,0
+bb1a291a-43e4-4c15-bc98-0c7131797467,"Goodman, Jones and Griffin",Electronics,73,41766.38,9672,33,89,4,7,0
+025943c7-034c-4241-91c7-c309178eb59c,"Miller, Sims and Atkinson",Electronics,6,109428.16,41872,21,48,2,1,0
+0474edbb-d992-435c-a239-926743bbc948,Nunez PLC,Food & Beverage,11,111943.41,14285,36,54,2,2,0
+269f35e6-8e6f-41ee-a8b5-3a4be3e52187,Ware LLC,Fashion,9,104121.86,23359,15,53,2,2,0
+f94dcace-8329-447d-9156-01d08156def7,Mendez LLC,Home Goods,67,148134.79,48639,12,18,3,0,0
+0123eec8-8137-439d-9238-5841afc24866,"Sparks, Harris and Patel",Home Goods,52,234447.1,10713,22,27,0,2,0
+ec365f8f-f9c2-431e-b923-434f67706151,Hall-Potts,Home Goods,14,132268.89,20255,28,87,3,9,0
+b5b1378c-d2c7-4295-9c6f-d4914775179e,"Martinez, Ramirez and Hoffman",Food & Beverage,65,139093.5,19187,41,72,3,4,0
+97117a31-ef2f-4549-a485-ad7de21503e4,"Page, Clark and Hernandez",Food & Beverage,74,177550.96,37188,9,71,2,0,0
+2321b561-0bdd-400b-8f79-a780ef6d651d,"Stephens, Garrison and Foster",Electronics,20,73200.76,5531,24,61,2,5,0
+fba352e8-2edf-4a1e-a65f-b49191606495,Campbell-Smith,Electronics,61,184828.89,32517,16,33,3,1,0
+62ecc3c9-d636-42f6-b19e-c3074f8fd331,"White, Gutierrez and Griffith",Fashion,97,104815.89,26605,34,24,3,0,0
+d9556b02-cfae-4f5d-9ef7-de6712ec8962,Barker-Bond,Fashion,21,144512.32,14979,8,48,2,7,0
+b8a60b80-b19c-4090-8630-2c7b080a50d8,"Hawkins, Doyle and Kelly",Electronics,76,68102.91,45438,38,58,1,0,0
+feb936a9-9eea-4ed5-a363-214958361145,White and Sons,Fashion,7,64923.42,42101,28,17,1,3,0
+88a75aac-9554-4e3f-9eb2-4bdabc51d536,Suarez and Sons,Electronics,62,81372.84,34673,23,31,2,8,0
+51dafa8e-d4e1-401a-9d0e-3cd7b0d8111e,"Brown, Marshall and Graham",Electronics,60,98987.59,26954,10,53,2,8,0
+cd49aef5-e584-4b42-8f51-47ad2cd1b3fb,Kelly-Jenkins,Fashion,27,26244.87,48215,23,81,2,7,0
+dcd31e37-abf6-4d24-a641-85227e24b44e,Padilla-Brown,Electronics,26,90791.97,39169,14,48,2,6,0
+e417d64b-4fb8-4c9f-bd2b-5fd5f5c67341,"Garcia, Roberts and Perez",Electronics,73,209301.86,25638,9,65,0,8,0
+0eebc239-1c2a-4d8e-a94a-94cee3f9532b,Griffin-Foster,Home Goods,19,72167.54,46882,11,63,4,0,0
+ae7d4b2f-58b5-4d04-bcf5-08f4cbef6762,Larsen-Williams,Fashion,83,39349.09,44420,26,41,1,2,0
+edc09c3e-24e4-4093-85f3-2c7fabccbde5,"Floyd, Aguilar and Williams",Food & Beverage,97,146427.08,49783,12,91,3,2,0
+5e5d9ee3-af7a-4905-8950-8d4443051599,"Schroeder, Miller and Ferguson",Food & Beverage,17,74140.68,19453,28,44,2,0,0
+c9c5cdc7-1b1b-427e-9e10-5d677b154ee5,"Blackburn, Harris and Perez",Electronics,37,162130.99,15136,19,63,1,1,0
+f214ccf2-edd5-4a25-a16f-280b06edd0df,Mendoza Ltd,Home Goods,12,20845.64,28320,9,41,1,0,0
+c34048cb-e749-4ca9-86aa-2ee650b42f35,Oliver PLC,Electronics,13,157228.14,41927,22,58,1,2,0
+e14d119a-26c9-4f3b-8180-47cfbcd7b867,Lopez-Powers,Fashion,63,44372.59,43575,5,33,4,1,0
+736b3e7c-16b0-43b1-a188-eafe9c5bf716,Morgan Ltd,Food & Beverage,37,90101.59,36930,25,39,4,5,0
+2f8d7ea8-5eab-46b9-ad91-99bd83e61e04,Jones Group,Electronics,51,111677.52,44087,31,75,1,4,0
+8ef1707b-7deb-4f71-b20b-abc339bb8928,"Hunt, Russell and Gordon",Food & Beverage,16,140051.27,15080,27,59,0,3,0
+803c1192-5396-4a69-831c-706566267ab2,Carrillo LLC,Fashion,10,104598.56,31556,24,8,4,9,0
+c5c2c7f2-500c-4947-9ae2-e633df77616b,"Chase, Smith and Knight",Food & Beverage,54,60740.21,24661,12,43,0,1,0
+cbcbd2f3-0a71-421b-b736-3a9b61b2c2dd,Barrett PLC,Electronics,62,211883.57,26189,33,58,3,8,0
+93241c32-e030-4c0f-8af6-5c3e64913ca5,Gonzalez-Mckee,Home Goods,28,182863.42,48562,36,38,4,4,0
+1f4c19d6-302e-4645-bbb1-3382f5446f73,Smith PLC,Electronics,35,83683.77,24547,20,46,3,5,0
+8d9448c4-cdeb-4710-a4a4-361ca54a9861,Miller-Hughes,Home Goods,22,121390.27,43434,1,6,0,1,1
+262f268f-9487-4560-a7da-6cb62ac42393,Wells-Butler,Fashion,82,113585.75,5570,20,69,0,7,0
+52f18dab-439a-462b-9107-c1eeffc76b6a,"Obrien, Mccann and West",Food & Beverage,78,149611.45,6302,38,92,1,5,0
+3a6ff42e-d687-43ee-a4ef-14999c73522b,Hopkins Group,Food & Beverage,30,151665.52,45974,28,41,4,7,0
+78761163-492a-4bac-ad4c-27bbce1c1d35,Castro-Fleming,Food & Beverage,14,108365.2,17737,16,62,1,4,0
+8b771280-bb08-4f21-ab9c-00fb1ee03261,Mayer Inc,Fashion,38,140544.26,18771,44,59,1,3,0
+27b3f125-7888-40e2-ba54-d60bd7e35f76,Miller-Wu,Home Goods,19,81868.34,27882,38,59,3,9,0
+fcfadc81-14db-45db-a482-23a9873d957d,Boyd-Wright,Fashion,53,129174.62,45978,22,68,0,8,0
+58fc2ddb-3381-47c0-b8f4-46a239db3baf,"Ewing, Bennett and Lucas",Electronics,95,99851.22,31580,29,31,0,0,0
+505605c6-2023-499a-80e3-7e84f4d17e73,Jenkins and Sons,Food & Beverage,37,74004.51,34425,17,64,2,6,1
+76786f29-fa3b-4525-bcb0-adf53eacbb7a,Roberts-Chase,Electronics,19,105164.14,44012,34,52,2,9,0
+7c84e4d8-e56e-4e30-a481-bebd117bbba1,"Smith, Carroll and Martin",Food & Beverage,84,125802.91,48704,30,87,2,2,0
+0af39c59-fddb-4301-a394-1570d7bbe7d5,"Butler, Rocha and Garcia",Home Goods,92,154419.76,31014,2,44,3,1,0
+bf924188-b1f4-4332-851d-8b2c29d7c681,Wall-Carter,Food & Beverage,40,149069.06,28069,6,47,1,1,0
+8b3bbc14-5332-43bd-9b47-4e8216916eb9,Parker LLC,Electronics,72,60952.45,12465,1,88,0,1,0
+de2afeee-ff04-4b0a-9041-5eb78fed9849,Bradley and Sons,Fashion,26,161496.19,48006,17,19,0,4,0
+13295453-7f75-49b0-adca-4a0a6624991c,"Martinez, Medina and Branch",Food & Beverage,24,120457.42,22692,31,50,0,7,0
+410cb15f-6940-4677-add6-51fd762e7dd5,Castro-Farrell,Food & Beverage,6,117569.23,33640,9,51,3,8,1
+bdf97d9d-e91d-4b1a-94dc-735d1244a8cd,Bennett-Mccann,Food & Beverage,37,67350.26,45972,24,41,3,7,0
+a6a74978-11f0-47b1-8ff1-5b9c2cc0dd44,Neal LLC,Food & Beverage,9,67678.14,42022,9,19,2,0,0
+3fa41a18-4587-4d5a-8a63-e526109eb57c,Roth-Welch,Food & Beverage,59,136316.58,6857,5,47,1,4,0
+fd3c0c22-3601-4341-bafe-4c7fac6578f3,Hopkins Ltd,Electronics,6,82344.38,47123,28,42,3,3,0
+d9601e8d-2d0e-469e-8e33-b777f5521cc7,Mcbride Ltd,Electronics,44,112313.49,49830,42,24,2,9,0
+831b0799-d59c-4707-b50b-6838efdc3e84,"Smith, Daniels and Le",Electronics,51,50742.29,23165,31,50,1,9,0
+0c0b878a-03ec-41f3-b800-3998a7297c50,Taylor PLC,Fashion,52,167385.65,42715,24,21,3,2,0
+36e965e9-364d-43f9-a95a-667fd39580e9,Turner-Avila,Home Goods,84,94436.91,20229,29,30,1,9,1
+96c3bf0e-9ce9-4570-8296-37a288a5bbd3,Jones LLC,Food & Beverage,84,118812.54,31319,8,59,2,7,1
+f3b45594-a2e5-45ba-8078-a31504f2a0e8,Ross-Perkins,Electronics,92,93786.83,7956,8,48,3,9,0
+beb00155-965b-4ffd-ba14-d5e440b09344,Flores Ltd,Food & Beverage,23,155891.91,49729,1,83,2,8,0
+74cee686-9fe1-46e7-a45e-6fc9f1449636,Ellison Ltd,Food & Beverage,53,27135.85,33591,47,66,3,0,0
+bf8cfe3a-739c-4f38-a25e-3e263dd02a03,Jackson-Burton,Electronics,64,184050.98,27244,29,39,3,2,0
+44be9433-f610-4cd2-b46f-49b9c4a36237,Meza-Tran,Home Goods,81,160453.05,18091,43,35,3,2,0
+05d4ae4e-ae31-4915-9d17-ab74c1f85b20,"Mitchell, Snyder and Nichols",Home Goods,9,161433.6,10069,5,88,0,6,0
+1b6b42ff-7894-45c5-a451-de400680a25c,Stone-Wilson,Home Goods,46,179213.66,44936,47,73,4,3,0
+280bbff7-8567-4aac-9490-d95ab3cf9894,Cook PLC,Home Goods,38,135243.77,42521,19,10,0,3,0
+f5cd5f10-be65-4589-aca8-cc0c9ab87cfa,"Wright, Bell and Murray",Food & Beverage,5,108280.08,47727,6,37,4,3,0
+91eee4da-96f8-458b-9502-4bdaa1b79ca3,Peters Ltd,Fashion,66,-30736.71,22538,7,42,2,3,0
+02d1d35b-a877-4574-b927-bd34a4b0c0cc,"Campbell, Johnson and Garcia",Electronics,66,114909.48,19236,24,64,2,5,0
+b65964b8-87fd-4109-869e-dc975f8a7e4b,Jacobs Inc,Fashion,30,154263.15,14295,1,59,3,8,0
+cd2d5a10-5fec-4169-bfbd-c12f0a9d3b49,"Johnson, Nguyen and Lee",Food & Beverage,81,102851.83,26953,46,53,4,1,0
+9713c00f-d662-4713-b47c-1f65e7948344,Johnston LLC,Home Goods,38,104164.23,41929,42,26,2,3,1
+840709b5-72b4-40a8-8586-76adcc545d69,Santos PLC,Food & Beverage,48,107679.18,24994,41,67,4,3,0
+9ead9591-d7cf-41b1-b4b7-ebe576109975,"James, Williams and Brown",Electronics,10,114808.26,25454,32,82,2,4,0
+8b5b92f8-fb08-4cc0-8dff-65f19ad8c6e8,Thornton Ltd,Home Goods,2,138050.94,25893,17,51,2,2,0
+74cf04c7-27c3-4658-b48e-088e5927f893,Williams-Vasquez,Home Goods,70,116587.7,38060,33,32,0,2,0
+156279b4-5250-405a-ae4e-51145c4841f9,Tate Ltd,Fashion,79,27115.42,37403,31,51,0,1,0
+c21bf547-fb5a-4937-a8e1-60f64b3662ae,Freeman-Rosales,Electronics,73,93210.89,39868,44,78,4,9,0
+635f9f76-5f0a-484a-abaa-83b8ae372dda,Ruiz-Olson,Fashion,2,92497.43,17068,12,22,0,8,0
+69a83f98-9051-4a63-8d4f-c734c16f44ad,"Medina, West and Newman",Food & Beverage,12,78305.1,14470,30,56,1,7,1
+78cf137b-5bca-4543-90be-f1a75a5ebee6,"Dunlap, Brown and Braun",Home Goods,20,81139.42,20328,14,41,1,8,0
+aba098d3-af1b-4049-893e-bbd573d2e791,"Rubio, Lyons and Guzman",Electronics,36,101668.2,17568,2,19,3,6,0
+ab5c27d7-76e3-47b1-8cba-37592cbdd1e3,Martinez-Woodard,Electronics,2,51202.63,43154,16,42,3,7,0
+8846dbf3-3eb5-4151-95b0-bf8a2d9023c4,"Smith, Miller and Bridges",Food & Beverage,18,114697.59,18233,25,58,1,1,0
+bfe0a7bb-54e0-433e-a5d9-161c4a96056f,Patterson Ltd,Fashion,48,22205.97,24033,19,43,2,0,0
+095c3587-6885-45c6-bad2-1105d1c0c4af,Russo-Joseph,Home Goods,14,79918.31,18610,17,62,4,7,0
+a373671d-25ae-4834-913e-63834a2f26c6,"Robles, Dominguez and Alexander",Home Goods,49,62247.87,27484,37,39,1,0,0
+3a6b6846-1235-49af-889e-748e52af2031,Shaw-Nunez,Fashion,91,34788.85,45470,41,77,1,8,0
+835a4bd9-890d-46b6-a4ab-f7f356c4dbf1,Zamora Group,Fashion,24,39820.4,25926,25,57,3,7,0
+99bf384e-583c-467e-a4a3-10abde29da68,"Boyd, Vazquez and Sanchez",Food & Beverage,55,82959.13,33116,47,56,1,5,1
+d37292a4-f671-4170-90e3-273576aae2f8,Willis LLC,Electronics,82,90810.44,23550,29,22,4,4,0
+7aa34d9f-6df3-4280-87d1-13f9f8fd6e88,Cole Group,Home Goods,50,100621.36,22659,9,46,1,8,0
+569179df-f67d-43e5-960a-7a4a46f98d26,"Stevens, Solomon and Martinez",Home Goods,57,150780.24,43226,21,26,2,3,0
+6b8a38fd-4935-406b-8344-a1c967b36246,Hunt-Freeman,Home Goods,31,-14112.01,30956,6,83,2,7,0
+b2f2063e-2cb4-4959-b450-21319d6687ac,"Patrick, Jackson and Garcia",Home Goods,60,83423.08,15845,9,58,0,7,0
+a4efafc9-4f8f-41dc-8cca-58db724f950d,Freeman Ltd,Food & Beverage,43,85134.81,37978,44,34,4,0,0
+3b74530c-92dd-4902-b79b-35852d35d26e,Stewart-Miller,Home Goods,83,169010.51,46206,41,44,0,7,0
+a7334aab-f95d-491f-9feb-fbab692d6440,Zamora-Osborne,Food & Beverage,52,141361.4,41970,34,85,0,2,0
+277942a4-2db1-4795-8c4d-d0d482ece8bc,Garcia-Tucker,Food & Beverage,43,96208.32,26481,47,24,4,6,0
+0a43f332-3801-4841-a639-5ea805602e7f,Ochoa Group,Home Goods,37,78253.59,12436,3,70,1,4,0
+800a7ae0-8b34-4bba-86dc-916bb9fd484c,Brown-Morris,Food & Beverage,68,25146.63,24850,36,58,4,3,0
+4f3e2f7c-8799-402b-97a2-322994705b01,Chavez-Swanson,Electronics,74,148864.81,21741,18,57,3,8,0
+5ca5bd3e-0bd6-4efb-a4ca-6981d44480af,Patel-Davis,Home Goods,89,111061.13,37840,13,70,1,0,0
+cd7f9d23-b2b7-4c8a-ab10-28ce1eebf2eb,Pratt and Sons,Food & Beverage,12,29161.76,12607,24,52,0,9,0
+dd64dfc3-719b-4814-9d88-212025c8b5e9,Roberts-Jones,Home Goods,36,109209.23,9224,41,42,3,3,0
+a0fa4198-4028-476e-bd1b-0c3d987a63e0,"Scott, Freeman and Gamble",Fashion,5,97751.19,48380,20,35,2,9,0
+f8f37230-ce53-4fc1-9e45-acc7ce7616a1,"Hart, Hayes and Moreno",Food & Beverage,77,140002.43,18775,15,86,4,9,0
+5ba5d9ff-4664-4061-892c-56bdee9c3d96,Hoffman-Cook,Home Goods,30,112918.54,41418,22,54,2,5,0
+9a342ba7-dcba-4e04-a148-802b010bb49b,"Obrien, Williams and Martin",Home Goods,95,148762.16,16242,7,0,1,0,0
+bae5d40b-38b4-4b50-b3dd-5d1a86a16b3e,Ray Group,Electronics,68,131240.46,8970,34,19,1,5,0
+fb5816a3-12ea-4b17-a12c-2f91a72a4765,Reid-Miller,Electronics,18,147802.16,33966,15,52,4,4,0
+4be9d085-81a3-4f1a-9df4-5117f544c2fa,"Campbell, Murphy and Fisher",Home Goods,98,130801.54,41200,4,70,1,3,0
+f7bf588f-af92-42a6-bcba-e406d2d994c9,Scott-Roberts,Food & Beverage,15,180809.49,38183,46,63,3,4,0
+09c627be-824c-48fe-9ce6-e763eed0a3a1,"Doyle, Harvey and Jones",Electronics,37,108796.51,28912,39,42,1,9,0
+ec0a1558-d835-42f4-855f-5aa750e47c7f,"Turner, Martin and Campbell",Food & Beverage,90,95519.64,40889,35,67,1,1,0
+d3110360-5126-49df-854f-9f86a97d568a,Schneider PLC,Food & Beverage,68,94413.63,13694,8,47,4,2,0
+0bdeaf8c-272e-4898-b43d-94bdad0e461e,"Savage, Sullivan and Collins",Home Goods,19,72094.16,10151,39,37,0,4,0
+f74e2a1f-d4c4-4c20-9c3e-c88a944d911e,Sullivan-Kennedy,Food & Beverage,29,3949.66,28705,19,36,2,1,0
+5665dbbb-dab9-4910-9093-ddb14313df55,Woods Group,Food & Beverage,23,45389.86,9914,8,8,1,6,0
+ced63190-ff44-4d4f-958f-41b3d5135fa0,"Rowe, Heath and Vaughn",Home Goods,45,45113.79,14316,5,32,2,7,0
+2950f216-64ef-4517-8848-ad2c435cffab,Robbins-Smith,Food & Beverage,25,128868.16,25873,42,57,3,1,0
+0be2f237-93a0-45aa-b431-3a0a8b60d700,"Johnson, Hines and Downs",Home Goods,67,52051.88,15795,9,30,3,4,0
+4a38c1be-93d8-4da5-bc18-489db8dfe56d,"Dickerson, Jordan and Hunt",Fashion,83,79044.17,47055,31,53,0,5,0
+6632923e-b2eb-4d53-8ea9-5d4511698de0,"Moyer, Reese and Velasquez",Food & Beverage,73,22355.44,40665,34,43,4,2,0
+0d15e127-7d4f-43eb-8192-b11201de584e,Melton Ltd,Electronics,45,112977.77,46197,40,27,2,8,0
+d327361d-6686-4d5d-8279-5914fac47c8d,Murray Ltd,Food & Beverage,53,37653.54,25481,25,41,0,7,0
+5669803d-712d-4e87-ba4b-ae22c883e0a2,"Gross, Fritz and Franklin",Food & Beverage,25,76131.2,47019,32,68,1,7,0
+b548f0ab-7b56-45a9-9c9b-0b8295a08961,"Bush, Tate and Johnson",Electronics,29,121081.68,43080,3,31,4,5,0
+f73c44e5-6b43-4e99-bcd7-72f3f8b739b9,Morales and Sons,Fashion,52,103817.79,34043,30,47,2,5,0
+7fbd3e80-eb69-47bc-b457-44fdaba5ed2f,"Roth, Crawford and Moore",Food & Beverage,78,209830.95,45307,46,41,2,7,0
+8cd7d049-6a21-44f2-8931-c6b9ddc1fb00,"Miller, Thompson and Turner",Electronics,61,106211.87,34193,31,51,3,0,0
+4024a337-7633-42d2-b99a-9b63cea79061,Cooper-Simmons,Food & Beverage,93,207550.27,31790,10,58,4,4,0
+9711c769-8e92-4ab5-b793-903853f60901,Burke-Warner,Electronics,77,129874.56,24127,46,25,1,5,0
+06e0834d-631b-44af-853a-c9f5bb82f5a5,Barrett-Melton,Electronics,94,118781.71,34531,30,52,4,0,0
+c26acd38-89da-4828-84fd-0a8ffa72cac6,Brooks-Johnson,Food & Beverage,87,36587.83,22720,18,61,2,9,0
+6161998b-2914-4c7f-bd47-edec4b97b183,"Kane, Stokes and Nguyen",Electronics,65,165875.76,46718,16,24,0,2,0
+8c53cddd-4909-41a1-81ed-5f736b7dccad,"Diaz, Nichols and Sanchez",Electronics,5,117998.87,26431,1,48,1,3,0
+20f80809-738c-42f4-a60b-1382abedba35,Massey Group,Home Goods,48,136041.52,42704,11,50,2,4,0
+e6c5b210-d9fc-4d85-b13c-421fb657373f,"Jackson, Baker and Martinez",Home Goods,77,66042.96,17092,47,52,0,7,0
+98f363a6-5bd8-405b-8d43-594071550a12,Jones Group,Fashion,36,63969.42,46077,17,73,4,7,0
+9c24875c-ef23-4b35-9e89-de5aea156435,Wood-Williams,Electronics,65,129292.23,28379,1,52,2,8,0
+6876c135-58f0-46f0-8f7e-449ec296cff9,Smith Inc,Fashion,34,82885.96,11051,29,60,0,7,0
+1425b40c-4551-4ac6-ad70-ae3c87b4692d,Jones PLC,Food & Beverage,29,143027.22,9837,17,66,3,6,0
+58d452ca-35fe-42ba-9b4f-d9b6502449d8,Lee-Williams,Food & Beverage,59,120782.17,43799,40,52,4,0,0
+273aca79-c156-44c4-9633-bc0d02e1c1b7,"Johnston, Riggs and Fisher",Fashion,61,59485.26,18356,11,54,4,4,0
+bda80324-06f0-49c1-be27-2e0b488d5716,Mcpherson and Sons,Home Goods,18,82266.05,19216,8,46,0,7,0
+5ae73531-7f79-4955-a073-a0741ee1fd5a,Vincent LLC,Fashion,69,28096.35,15572,19,72,2,3,0
+79cbe7e3-e887-41bb-b9a9-4e89a74bd0dc,"Morgan, Bryant and Ortiz",Electronics,41,33562.76,18567,14,56,1,5,0
+2db40ea4-21e3-4e1a-8272-49da563efffe,Jackson-White,Fashion,29,32192.27,18929,30,38,1,6,0
+33942e65-50aa-4ce9-9926-d325fad63e23,Robinson Inc,Fashion,18,36420.79,5998,44,34,0,2,0
+9b6c5927-9f57-48c8-a656-31c3873cab6a,Orozco-Mcclure,Home Goods,29,209665.59,35485,8,33,1,7,0
+ca05bae0-e463-4f5c-ae77-528001a89b40,"Ward, Miller and Valencia",Fashion,99,138856.04,27517,2,84,0,5,0
+34d49162-ab73-4a7c-a5f3-60cb04cac951,Dickson PLC,Fashion,80,-928.41,20035,44,55,2,1,0
+d4303368-7644-4700-a292-994689d00cc0,"Garrett, Coleman and Wright",Electronics,34,110885.8,23896,40,47,1,2,0
+557502d7-153c-4333-9bcd-e2d55f74b92b,"Bird, Mcgrath and Harrison",Fashion,77,89172.29,23836,31,40,2,6,0
+82cb164d-2152-456c-830a-c44941d128d9,"Clay, Flores and Edwards",Electronics,13,106442.16,37794,41,49,2,5,0
+2194c58a-e8e1-4210-ba93-2424e1c44773,Wilkerson-Carpenter,Food & Beverage,1,115736.3,10811,23,89,2,0,0
+63c64227-5b8a-4168-a7de-1fb6f23f5c8f,"Thompson, Hoffman and Kaufman",Food & Beverage,85,143933.74,18253,28,88,2,8,0
+947f1ccb-2ef4-43f8-99cb-d5fc5f289171,Mullins-Edwards,Electronics,15,142289.93,37588,13,81,0,3,0
+2c85c26a-f6bc-493d-9162-7edb9858af02,Banks-Huynh,Fashion,37,96918.2,18608,45,34,0,5,0
+b02aa1fe-287c-46cf-8cbc-7ca1608de073,"Herrera, Nichols and Jones",Home Goods,71,-3546.45,38625,47,39,1,8,0
+4cff2f13-c8de-455a-803e-7dd0650b04b6,Brooks-Hernandez,Home Goods,53,117969.95,22070,41,61,4,0,0
+7dc47597-0072-4157-a944-f929d3500585,"Porter, Lee and Burton",Home Goods,51,97345.46,48503,23,56,4,9,0
+f83b8c58-5d2b-4cd5-b32b-8e7dd9c617c3,"Jenkins, Thompson and Monroe",Fashion,82,38925.73,5985,20,21,4,8,0
+acb33dd0-a7e7-42d6-8108-33c03a8f358d,"Golden, Mckee and Mcdonald",Home Goods,14,142636.65,49223,7,57,0,0,0
+a134bfa2-b988-4362-886a-3c32ba43d3e2,Campbell Inc,Food & Beverage,61,119386.38,18825,28,56,4,2,0
+aecd2bb7-e68f-49c3-a691-318fdae6e686,"Buchanan, Rogers and Salazar",Food & Beverage,48,67121.2,18489,23,75,0,8,0
+1ebc8acd-67f8-46cd-ac37-550f4c323056,"Salinas, Brown and Lowe",Home Goods,45,156065.35,11352,25,63,2,2,0
+83938169-706a-4a51-afac-6122c3d1d4f3,"Juarez, Larson and Boyd",Food & Beverage,93,123613.88,38858,46,48,2,6,0
+189b3187-7c75-4aef-bf58-b41038c48d3b,Lam and Sons,Food & Beverage,97,93299.38,26967,10,43,0,5,0
+651251f3-17b3-45c6-94c9-d6c88c8858d9,Nguyen Ltd,Fashion,48,90613.19,25802,43,76,2,4,0
+bf9470cd-eb20-4f0b-b87f-07bf663522b1,Moreno Group,Electronics,74,72306.68,31108,16,30,3,3,0
+239d4d11-9691-46f8-879a-573fadc25be5,Jones-Salazar,Fashion,70,144948.02,28781,23,2,3,8,0
+f496c898-3abe-49c2-8065-736e8e598b26,Lopez Ltd,Home Goods,13,38988.85,36477,5,36,1,4,0
+f6093449-90e2-430d-a401-fc2c1b86bd1f,Bates-Carlson,Home Goods,95,226659.1,22230,29,39,4,1,0
+9a5d7715-f47d-4882-9217-2bf6e49ec0ef,Reynolds and Sons,Food & Beverage,43,131290.54,47551,22,36,4,7,0
+d2785f3e-f356-4359-97f4-8a137c07188d,Mercado PLC,Fashion,39,52478.48,49413,3,28,3,5,0
+9795cb1c-5799-4724-a36a-5810ddfa119d,Villa-Smith,Food & Beverage,58,34351.53,33070,10,48,3,1,0
+dfbd6c09-6a07-4d02-baeb-f69066fbaddc,Pace LLC,Home Goods,70,100607.69,23047,28,20,1,3,0
+77f4c52a-385e-42a2-9b54-e36704531438,Miles LLC,Food & Beverage,17,143552.52,36955,28,7,3,9,0
+4a14f6ae-c1f6-403b-81ff-3f41d464284b,"Fox, Soto and Henderson",Food & Beverage,68,138403.36,25999,18,25,4,2,0
+1cebbcd7-3e86-4789-8fb2-8fd4ea5bc26e,Richards-Thomas,Fashion,44,64799.51,30159,26,49,3,9,0
+f9557283-7e21-4e70-aaf2-aa7e633d411e,Merritt-Moore,Fashion,15,85427.26,31561,1,94,3,2,1
+4b71f1ee-ffa2-41df-86e4-b5c3ee45974a,"Jones, Jimenez and Greene",Fashion,85,91505.24,46732,3,54,0,9,0
+6b675989-2de5-442d-98dd-939a41d5dea5,"Johnson, Evans and Lucero",Electronics,91,46410.54,47287,21,45,0,5,0
+33516606-d3c5-4827-9347-ef06aa54b50c,"Odom, Cook and Martin",Electronics,27,88944.38,47893,15,73,1,2,0
+e76da9e3-f2e1-4a86-8c49-6b5f0a470367,Brown Ltd,Food & Beverage,99,63354.72,27477,18,59,4,7,0
+52e0b977-18fc-410a-8bc3-a7ec7aad9b96,Sanchez LLC,Fashion,63,179810.02,34392,43,63,1,0,0
+0861e136-b615-4f1b-8aae-3e3c14a32b3d,Sparks Inc,Fashion,52,42847.97,47640,25,4,2,9,0
+20c89219-b6f2-41ed-ae09-86bc166f74c5,Lopez-Miller,Food & Beverage,29,137234.81,9363,46,18,0,2,0
+f10fb7ba-6bb1-461e-a904-bc2403b97689,Herrera-Harper,Food & Beverage,94,35666.56,47737,22,41,3,4,0
+ea802b46-f4a8-49c4-8322-df032e7f3d45,Jensen LLC,Home Goods,4,155930.68,13676,30,41,2,3,0
+b3419523-c42b-4750-ac25-72e069244130,Mooney-Contreras,Food & Beverage,48,146340.92,9292,9,41,0,1,0
+1e71f524-fb3a-4ecc-84dd-a4446c5d181b,Jones Ltd,Fashion,87,50173.47,44729,37,54,3,2,0
+8fc377cd-8296-4691-b679-e429a131bc09,Hardy-Curtis,Home Goods,95,133432.62,29323,39,24,2,0,0
+d72efae7-404f-45a1-b860-e68c21b08d22,Thompson Group,Home Goods,50,36095.11,22419,41,33,3,8,0
+70e5bf57-32c6-4b53-9f07-6944b4274770,Stewart Group,Food & Beverage,3,63842.69,21699,17,39,1,6,0
+7f8135c2-c09f-4107-85d5-c0747bee98b7,Atkins-Scott,Electronics,13,142898.06,21582,18,40,1,8,0
+2ea7f0ae-0d85-4116-b860-93692f222fc2,"Johnson, Carter and Garcia",Home Goods,98,62853.04,11216,30,35,1,5,0
+2ad46e7f-d43d-424f-b750-a90764bdef24,Higgins-Huber,Food & Beverage,96,128341.26,16689,26,62,4,5,0
+02331cce-e6ee-40d7-8924-702c6496a749,Joseph-Williamson,Electronics,29,85711.94,15201,36,108,2,8,1
+319fc15d-6659-4a5f-81b4-fa1be4aa53db,"Johnson, Taylor and Curtis",Food & Beverage,5,219003.35,22069,32,3,2,2,0
+f76cdcc3-2ff0-4db8-a830-6296dd8a4620,Riggs Group,Electronics,96,107508.15,25766,37,48,4,7,0
+14fece0c-2f39-4874-b1ff-6694cddd877a,"Hartman, Gonzalez and Taylor",Electronics,31,104886.47,20906,26,60,2,6,0
+0936ba46-3996-4f63-a719-69c2d302ac17,Wiley-Knight,Food & Beverage,28,-15489.23,33294,33,30,4,7,0
+aba04e84-c19b-49c2-a50a-2b7372c3a9ef,"Smith, Carpenter and Stephens",Electronics,32,96297.1,13064,20,60,0,6,0
+228d0d69-0a0e-4c01-a416-8bb9a195c81f,Roman LLC,Electronics,82,117137.15,26709,29,61,4,6,0
+74edda86-f3b6-4cda-b1a1-0d0ad08f938d,Mccarthy-Murphy,Electronics,87,156897.1,15751,29,72,2,0,0
+20b155ae-3178-49c5-977c-cad0a9e3eaf5,"Alvarez, Ford and Blanchard",Fashion,84,107388.53,17679,44,43,2,5,1
+f08aebf5-e131-4e94-a7dd-f02b68da747d,"Garcia, Moore and Forbes",Fashion,85,118480.87,8351,11,52,4,2,0
+d9b66915-b4d6-404d-a901-689f7afd1add,Jennings Inc,Fashion,40,64732.79,13070,7,15,1,8,0
+2257f5a3-291d-4175-83da-65879665e64c,"Bartlett, Graham and Mills",Home Goods,30,133930.85,31582,17,98,2,8,0
+84ae0801-1962-4c73-a252-a892c4fbfea4,Kidd-Schultz,Home Goods,35,194097.14,44971,37,56,2,8,0
+dafe832f-67c1-41c0-92c4-8a97a00f7749,Fritz Inc,Home Goods,73,41803.15,26358,46,25,1,3,0
+8129fd45-206e-4688-b410-7f8977a5eb0e,Gallegos Ltd,Home Goods,23,-14429.01,37041,30,49,1,4,0
+d8bd5ab8-ad47-45d4-a732-f7f26b1330ee,"Campbell, Diaz and Ali",Electronics,5,182160.08,9475,37,43,0,3,0
+1b08a4b8-7ce5-45e4-8652-3091b36da6e6,Hayes LLC,Home Goods,36,73020.69,6248,20,66,2,1,0
+0ef9ab35-cfc1-44e6-80a8-cfcc75fe2f4a,Pena-Davis,Food & Beverage,20,119302.87,37847,1,55,3,4,0
+1b89a01d-b8ed-4ead-8885-7cd66ae3d412,"Stewart, Duncan and Williamson",Food & Beverage,65,40204.5,12470,10,57,1,0,0
+c9b964d0-6af5-4db9-af06-be150e5a8b8a,"Jones, Evans and Thomas",Fashion,46,174107.79,44821,44,51,3,3,0
+c48de596-ce4d-4189-8aaf-11ccaed37103,Mcgrath Inc,Fashion,34,147216.6,11598,20,50,1,3,0
+c4f550a6-b390-4022-bc87-4a896c2c5ea3,Moses-Castillo,Food & Beverage,26,83677.87,20010,28,48,0,2,0
+bc416319-5023-409e-9997-883d12042fd6,Long-Buchanan,Electronics,68,57656.96,24666,28,16,1,9,0
+df3c5841-28cc-4ea2-902e-1b8fbf383206,Walker-Ford,Food & Beverage,13,108014.32,26327,13,40,4,8,0
+5c389600-b089-459e-8cee-fb7ea978da05,Weaver-Schmidt,Food & Beverage,20,184591.23,12351,10,72,4,2,0
+0a9074aa-f92e-4af9-b947-d8ad12b88616,Garcia-Myers,Food & Beverage,42,90326.42,6239,3,71,0,3,0
+a337cb9b-c130-4b03-ac43-3d134d35a926,Garcia-Hall,Home Goods,59,10640.59,30489,42,58,4,0,0
+e20e34de-32bd-448d-9ab8-e0b15b033d9b,"Riggs, Johnson and Simmons",Electronics,94,56898.01,13448,13,42,0,9,0
+8af201f4-092a-419f-b402-5c45ea683348,"Castillo, Johnson and Harris",Electronics,76,165444.25,47328,20,52,2,1,1
+a333a107-b234-4831-ab90-efa07eaca0ec,Rodriguez Inc,Home Goods,66,128237.68,11086,33,69,3,7,0
+90678855-5012-4389-8ea4-4f4b1a377230,Newman PLC,Electronics,84,101091.51,37313,43,62,0,7,0
+2e23d945-a564-41f6-958b-4798bdbd0125,Hall Ltd,Fashion,59,159133.73,7203,29,51,1,7,0
+5d031354-71b6-4f36-bdbb-5a885c7bf524,Atkinson LLC,Home Goods,35,39474.8,48857,35,71,4,5,0
+0f2b88fe-a751-46a5-bb27-653431938421,"Gray, Hall and Braun",Home Goods,39,87492.22,14164,47,56,2,1,0
+f0571a5c-3583-46b5-8b45-daa07153c413,Powell and Sons,Electronics,67,172996.2,32334,18,72,2,0,0
+e4bc219c-bfe8-4006-9a4c-6b27f774f72c,Russell and Sons,Food & Beverage,69,103092.25,26432,44,59,2,2,0
+08989575-8c89-4c2a-a3f5-2aff7289462a,Vazquez Inc,Electronics,28,57833.36,27810,47,26,3,0,0
+380cc3ff-55ff-4fee-b92f-a767b96790af,Gilbert LLC,Fashion,63,89388.24,21862,45,31,3,5,0
+32c32ece-7410-49e7-8cc2-14e2e74c5428,"Harris, Jones and Parsons",Food & Beverage,71,132939.73,19221,18,70,4,0,0
+361353f7-0755-4cbb-a8a4-0aa7539cc2d2,Gonzalez-Miller,Home Goods,31,93883.73,7734,38,38,1,3,0
+1e93d098-3161-4467-9127-c5ec337df731,"Lewis, Taylor and Evans",Food & Beverage,41,51517.9,23780,39,53,0,2,0
+fb92ca87-9fb8-4169-bb63-29c8e3961ac0,"Howard, Strong and Chang",Food & Beverage,3,149330.7,22072,43,53,0,9,0
+38af0eb5-3322-4c5b-bc0d-21e77f86b9fc,"Jones, Moore and Martinez",Food & Beverage,34,138732.15,42576,8,53,2,3,0
+5fc9635c-08fb-47b6-b9fa-48a1c109c7f9,"Castillo, Robinson and Ellis",Food & Beverage,99,104405.08,9706,12,56,3,3,0
+f0d23f81-a176-49c1-b826-59b90c0e25b7,"Gardner, Cox and Hamilton",Electronics,70,82323.43,49259,10,32,4,9,1
+24feb183-7d62-444e-8c22-3ebf4a2008fa,Tucker-Allen,Fashion,45,94806.34,18876,45,55,1,5,0
+27546a20-8383-4b31-b433-17410c8ad488,Terry PLC,Electronics,73,142959.19,42749,28,70,2,8,0
+4b32fe67-9086-4971-82ee-a34cd288e357,Meyers-Larson,Fashion,57,90107.37,26007,36,72,1,8,0
+d7e42106-128e-4e17-b67e-38b66c7f8e36,Wilson-Sims,Fashion,9,84518.99,7740,37,43,1,6,0
+6688beed-a239-4460-8a25-0875bdb0af5c,Zimmerman-Cline,Fashion,94,48771.81,31153,46,37,4,3,0
+0bd81b12-2f52-4d70-a529-6caad5fe5ed9,"White, Lopez and Ward",Electronics,97,136063.97,25846,43,103,3,4,0
+e3e9fab3-4ebd-478f-97c8-5f971750ecc5,"Sanders, Sanchez and Johnston",Fashion,60,73595.9,8031,29,62,4,8,0
+56982a40-5258-485a-9ed3-68b0220b5222,"Hart, Harvey and Nguyen",Fashion,32,148024.79,10179,23,50,1,5,0
+a69d4ba4-d1ca-408f-adbe-9403d5f19a3b,Green and Sons,Fashion,64,94350.51,13353,31,14,1,0,0
+7780a692-5791-40ba-9772-756b3c48461c,"Crosby, Coleman and Collins",Home Goods,73,-5425.4,30398,24,25,3,4,0
+2ab2cfca-b983-4a0d-8133-c9ec5f6b3723,Evans Ltd,Electronics,75,89196.59,10145,4,52,3,6,1
+2d509e01-5d76-44e8-9ec3-b2742abebce8,Hood Ltd,Electronics,34,126846.58,33714,12,45,4,7,0
+332a71aa-d5df-4e21-bb2e-40ebd4efe88d,Wilson Group,Home Goods,28,98491.7,47127,14,61,3,8,0
+fee81829-df47-4e55-ab52-0d4711404c37,Chavez-Long,Home Goods,43,179418.73,26884,29,14,3,4,0
+a64fa30f-c019-4af0-b38f-609cea4817d3,Charles and Sons,Home Goods,84,52194.05,17619,41,52,4,8,0
+99ca27e3-fefb-4476-b004-1b8e6c6c7cf0,Reynolds-Ramos,Electronics,42,100491.64,33079,6,60,1,1,0
+640b3cbe-371f-4e8f-8a2a-1c9bbdeb4754,King Ltd,Fashion,95,102775.92,44552,27,4,3,2,0
+3b53eb19-de53-4a40-80c3-8cfe35f55cc5,Williams-Curtis,Electronics,17,-4383.99,8893,39,70,4,1,0
+4ac90e5f-982d-4e59-b602-9402c9c3c6f3,"Green, Long and Sanchez",Food & Beverage,43,77410.65,47750,19,31,1,7,0
+f87b9090-1ad7-4c22-ad2f-2454a6a1f8ae,Gregory-Wilson,Fashion,15,79042.35,10056,21,53,2,5,0
+dc54dd2f-5c8a-467f-979b-bc7484ec41be,Smith-Schneider,Food & Beverage,86,31009.33,36452,5,56,3,5,0
+5e9d821a-179c-47db-86cd-c667710e5aa1,Wells-Morton,Food & Beverage,63,121547.5,22304,41,38,1,8,0
+4812a52c-30f1-4414-a904-c44a718c4648,Tucker and Sons,Electronics,71,171847.74,30414,15,41,1,4,0
+1fb0fb4d-9ea6-4515-8205-a5bc62b1666e,"Mcgrath, Brown and Clark",Fashion,4,97536.39,29849,34,24,4,7,0
+e14fbb65-fba9-4df6-a882-f83c3d4025e6,Morrison Ltd,Fashion,97,57913.2,46504,29,49,2,8,0
+1ec3383a-4646-4ced-b932-6be190859833,"Gonzalez, May and Miller",Food & Beverage,63,101594.46,9059,4,25,4,2,0
+04d950f6-2634-45f4-bdf7-f33cf12f69c6,Hubbard and Sons,Fashion,33,174157.48,40254,9,45,0,9,0
+65176347-bbdf-4faa-898f-6f82db7d2d3f,Rodriguez-Martinez,Home Goods,67,67415.68,41870,3,36,3,2,0
+96bb9efe-6338-4c2b-b40c-a7fceb25e03d,Hall Group,Fashion,54,121391.43,38563,12,76,4,2,0
+2669b526-829f-4608-bb7c-91ca75f4442a,Harmon-Holmes,Home Goods,24,81655.69,47090,38,40,0,7,1
+0c470f99-bec6-4ea5-99ba-98c897a94da3,Schneider-Zuniga,Food & Beverage,72,55547.69,45519,25,33,3,7,0
+8c52f023-e1f3-44ef-ae82-2557eb7f128e,Moon-Anderson,Fashion,66,133205.51,14123,29,54,1,4,0
+0babdf3b-ddb6-4f45-bbb3-49ee596cc38e,Harrison-Johnson,Fashion,31,122248.49,22107,17,34,3,7,0
+0dd4ec3a-6cb7-448e-be91-9095b39cb388,Walters Ltd,Home Goods,79,125470.75,48769,37,27,3,2,0
+98940c3b-2651-446e-b2d5-e1873f547b61,Stephens-Lane,Fashion,40,57468.63,6629,21,37,4,4,0
+fffac559-0052-493d-8c00-9e0eac4a85b8,Wheeler-Church,Home Goods,24,113337.65,17079,4,63,3,8,0
+db31ea33-1e0a-4b4f-89b2-4e3f52acb4fc,Hernandez LLC,Electronics,73,62749.01,45208,14,1,0,1,0
+e1db6520-67c0-4a3f-a172-8632f5ebccd8,"Harris, Solis and Hamilton",Fashion,16,172363.89,13763,24,65,1,6,0
+4b43f17a-a8f2-492c-b5be-9d778be4f0ac,Wong Group,Fashion,32,91620.71,28027,32,60,0,7,0
+d75bdb00-7838-425d-b3f3-4df5a8daacfa,Miller LLC,Fashion,76,135575.79,40562,22,65,4,7,0
+48959d85-86b2-493b-9697-741c688b5bbb,Harris-Duran,Electronics,27,124647.78,27455,34,43,1,8,0
+f068bd29-1cde-4451-89d4-05a958a8c7af,Green and Sons,Home Goods,23,187695.61,32294,30,39,0,8,0
+5479aa53-d814-40f6-8435-ac3add4cad77,Baker and Sons,Electronics,71,88571.98,15624,11,16,2,8,0
+d5f34cc6-abdf-4dd4-839f-a418e76554bc,Woodard-Watts,Food & Beverage,3,161273.79,46109,17,54,0,4,1
+85c01b2d-d86b-4aad-bfae-c6513b39f863,Andrews and Sons,Home Goods,70,114495.85,15362,4,66,2,2,0
+954c3c08-1b6f-48bb-8e1c-caaa48c4ecf3,"Fry, Pratt and Smith",Fashion,69,128975.75,42571,38,46,3,5,0
+8d1ee85e-3303-4719-bed5-184618e9e1a2,"Lopez, Cox and Adams",Home Goods,62,63065.15,6340,41,21,4,8,0
+2d015051-62fe-406d-95c9-c1235d29c39f,"Henry, Johnson and Miller",Electronics,65,33675.97,14633,45,26,4,4,0
+3e8be95a-b0ce-478b-b14a-cce7caec139c,"Galloway, Johnson and Jones",Fashion,86,108928.4,13582,5,40,3,9,0
+bf114095-17c5-47b1-a1aa-43efd360da8e,Walker-Hart,Home Goods,2,108753.53,17441,14,10,1,3,0
+3baced70-3821-4230-a06d-c5d3d9c0f879,"Gutierrez, Smith and Grimes",Food & Beverage,43,192359.03,21557,4,52,0,8,0
+2d438511-abfc-4fe7-bc09-c54035c46f99,"Swanson, Smith and Hernandez",Electronics,72,129951.16,5740,38,90,2,1,0
+8f014bfc-18d8-401b-b4b1-55b4ebbfcf1e,Martin LLC,Food & Beverage,13,107587.78,23995,34,25,3,1,0
+6b228134-945b-42e0-9cd8-f942c4d33c68,Cooper LLC,Food & Beverage,54,82571.53,18241,46,45,1,3,0
+f3d19599-e42f-409b-8e3d-bc83ee092d27,"Wagner, White and Hayes",Electronics,18,184861.4,20827,46,51,3,6,0
+7f5ecd9f-7006-404a-bd88-d291ba2264d3,Atkinson-Gordon,Home Goods,38,121693.32,32369,18,44,3,8,0
+730e7bb0-6ec2-4af9-8d0a-0c88731b8863,Wolfe-Mills,Home Goods,56,99558.77,38691,27,30,0,1,0
+8a704b2b-bb9b-49ab-891d-de510efbd126,Palmer-Pierce,Fashion,25,122901.81,7329,19,47,3,4,0
+30f437ad-cc2a-4936-a076-a6ff407b75af,Garcia Group,Electronics,68,103702.66,38031,21,49,2,3,0
+b3e97c99-d84d-4910-b026-21289640e9ff,Brown Inc,Home Goods,56,22565.03,27577,30,42,2,3,0
+978a0e7c-2c75-43f0-be28-409eea642ef8,Barnes and Sons,Home Goods,96,114759.65,29740,5,76,3,5,0
+11bb9408-2dc4-460b-aaae-637407f59440,Miller-Green,Food & Beverage,32,71491.67,11334,42,26,4,4,0
+2e8e02cd-d36d-442d-b866-191c221b8d60,Gilbert and Sons,Electronics,51,63306.73,14574,2,65,1,8,0
+fe80e3b3-3627-4ff5-a159-b9f7bc984e38,"Salazar, Drake and Miller",Home Goods,82,40420.83,13481,15,54,3,4,0
+6382606b-1512-414e-afa0-67b46c7160ca,Carroll-Shaw,Electronics,11,-33742.4,19417,12,55,1,0,0
+a9db0197-2962-4066-bda9-581bd09a33f1,Lewis-Parks,Home Goods,48,126638.2,49977,38,50,2,0,0
+8d904d79-4b8e-4fd7-a7f0-985440140f05,Macias Inc,Fashion,96,148550.44,13075,8,38,2,4,0
+48de75c5-2477-4882-9db9-c935b3f2b2ad,Bailey Ltd,Home Goods,62,86192.41,8211,27,60,0,6,0
+fe854107-1e18-4581-b5c4-73123b2965a4,Jones and Sons,Home Goods,8,37527.33,36445,44,20,4,9,0
+ec4cc44c-1a23-4824-8742-77ce90e8910f,Hickman and Sons,Electronics,34,82320.77,35708,6,71,0,9,0
+0bd1873e-bfc1-42d6-a82a-3a7fcd217cf2,Garrison-Allen,Food & Beverage,25,33075.39,8670,23,10,2,1,0
+5ab5c011-dcc2-42bb-be72-1e4e73c15f21,Walker Ltd,Home Goods,40,162247.46,11106,7,34,2,1,0
+184577b4-dbfd-41dc-b5be-0f752b5fbe1c,Brooks-Wright,Food & Beverage,7,42281.53,35436,31,55,4,1,0
+7d168c6c-e6b4-4926-b95e-d7c093b032db,Hill Inc,Fashion,78,91199.61,47117,41,51,2,9,0
+40498068-727c-41e3-a251-6c1d43972b13,Tran-Mitchell,Food & Beverage,55,40533.5,17642,42,50,1,8,0
+a4e823dd-dc13-41df-811f-c17f4e06ea89,Stephens LLC,Food & Beverage,99,9300.72,11120,2,75,0,6,0
+8d61fbf1-c0e6-4db5-9e27-99e63566ac01,"Hernandez, Williams and Wilkerson",Electronics,56,107720.52,42979,3,31,4,4,0
+8c15ec63-1b7e-4ee8-8338-c5880bbb2e80,Garcia-Martin,Food & Beverage,68,79560.09,30681,15,57,0,1,0
+96fbf8c9-087c-4c95-9561-6a6a12c415b8,"Nelson, Woodard and Smith",Home Goods,71,100951.59,21285,36,99,2,0,0
+5e563cb8-9da0-4e73-a1ef-3d37d375eac2,Smith Group,Electronics,37,120785.98,8572,40,37,2,8,0
+1949c4f2-7be0-4bd0-8b11-0cb282bdbece,Knapp-Riley,Electronics,33,119013.41,46345,10,16,4,9,0
+c25bbc9e-2466-4e2e-b9f0-3d0b635419ae,Church-Green,Home Goods,1,86646.34,5400,11,55,4,8,0
+1cd5683a-5ad8-4dc8-a19e-324755dd6237,"Garrison, Shaw and Levine",Electronics,81,88839.25,23425,24,41,4,4,0
+048967e8-5879-496f-9e8d-9b70587fa65e,Wells-Nguyen,Fashion,57,71182.17,6454,1,58,4,4,0
+feaad3ab-2cd9-4d85-98ae-d17e2c8a29c1,Johnson-Browning,Fashion,27,133003.63,13714,39,51,0,9,0
+773b5d12-fad5-40f1-910c-e366b6abaf37,"Morrison, Smith and French",Home Goods,15,284594.19,7771,19,39,2,7,0
+8f442690-1191-4200-a5ab-86e1d06630c5,Holmes-Burton,Home Goods,83,137069.52,42818,1,70,3,1,0
+368a981d-06fb-464a-a6a5-e30251630833,"Berger, Jimenez and Sampson",Electronics,60,45175.41,21997,11,72,4,4,0
+e209674a-2c0b-44c0-b12c-b3e47f092640,Nelson-Davis,Food & Beverage,95,126654.75,7129,44,32,3,7,1
+4c339025-ee01-4666-a6a0-b19e05728a26,Martin-Wagner,Home Goods,50,13903.43,13284,32,55,2,9,0
+8ab87e94-5e09-4a19-ad34-de5107467b3c,Gardner Inc,Fashion,33,167888.89,39135,32,15,1,3,0
+270ad859-6de8-4b39-a99b-023bf326ace2,"Garcia, Mcguire and Mullen",Food & Beverage,69,76682.86,49533,18,73,2,4,0
+7ebfb8a3-a49f-42a2-83d6-96fae932c821,Lopez Inc,Electronics,80,22032.67,9411,29,68,2,2,0
+65752572-d157-4bb3-b43a-efa9b78e56b7,"Gonzalez, Li and Coleman",Food & Beverage,91,27208.8,13648,1,59,3,4,0
+20bb5d3f-0ec7-4584-a448-31275d4b1dec,"Walton, Frye and Rogers",Fashion,11,139790.37,30906,6,90,0,5,0
+e7f86ec0-4d74-46a1-8d62-6b990b782268,Thomas-Nichols,Electronics,61,158824.52,31348,30,57,2,1,1
+ed604ef9-f5b0-4666-afcc-3dece30d3713,"Reid, Wallace and Dunn",Electronics,92,78689.63,10461,43,62,0,1,0
+54935343-a4fb-4d1b-9837-8ca4f70bf8f3,Martinez Group,Food & Beverage,3,76699.19,48529,22,13,4,5,0
+e7ac9e6a-40a8-4825-8652-5606c3fa46ab,Allen-Hays,Fashion,17,96717.16,14186,28,13,4,5,0
+f2a24276-9a81-4c82-b235-ab9d17c2027e,"Ramos, Kennedy and Armstrong",Electronics,46,204070.29,11614,5,71,2,6,0
+fa0a2d63-5012-49bb-bb83-2685287d6fe5,Chandler LLC,Home Goods,27,100112.83,8589,21,24,1,0,0
+f9574931-444f-4cc6-aa57-13eab15bbcbb,"Nielsen, Deleon and Cruz",Food & Beverage,14,42919.32,5650,6,63,2,1,0
+98d20cfc-9192-402e-be0c-5219599d7f2d,Randolph and Sons,Fashion,74,121951.73,10851,13,72,2,6,0
+a36fb671-b5a3-477a-9502-785ce28170b9,"Terrell, King and Yang",Electronics,32,155620.87,27979,13,36,2,3,0
+36db7459-b3f7-4917-a67d-9aad2cbf0cb6,Dudley-Mitchell,Fashion,43,124231.08,33862,29,71,4,5,0
+753a2996-4d9e-49f0-935e-f335a143b225,"Sanchez, Ali and Perez",Electronics,46,85222.62,25400,22,60,4,5,0
+2707d4a6-b648-47c1-9f5d-464f0ea776d7,Palmer Group,Electronics,28,72978.42,42588,24,53,2,9,0
+b18a4ebc-9a68-4f6b-b151-92cf47ecb243,"Dyer, Knox and Garcia",Home Goods,3,155927.69,21188,30,89,4,1,0
+be70c52f-cf6c-4d52-8dd8-f7095c8f786d,Williams-Roberts,Home Goods,77,121502.81,10313,28,47,2,1,0
+7b7c2e14-c3e5-444c-bb60-a02b2128d2c3,Armstrong-Ingram,Electronics,48,133866.54,12859,13,27,3,8,0
+9009e192-64c4-4ff5-9c74-1a96901ff227,Wilson-Drake,Food & Beverage,48,116425.13,8714,25,61,1,0,0
+10831bd1-b5cc-4cdb-9520-4b4cef8ba8c5,Parrish and Sons,Fashion,58,94613.44,9127,43,46,3,5,0
+76005cf0-c125-4ec0-a4c9-d2bcc2214794,Roman-Holmes,Home Goods,68,-10357.01,48039,46,67,1,3,0
+73d66635-5a55-4efc-a68d-b3fd78ad2b38,"Crawford, Russo and Lopez",Electronics,18,16088.6,15797,30,49,3,2,0
+ab494e30-25d4-44c9-9d64-65d454d375e7,Roth Inc,Home Goods,23,67985.35,42763,38,41,4,0,0
+585a6dd8-07f2-48d2-93e9-f25d98cc879f,"Stephenson, Vega and Bentley",Fashion,49,98831.87,31569,27,36,1,0,0
+6bd67337-d377-48fe-9396-b351f13e0e5e,Camacho Inc,Home Goods,1,57654.22,29089,7,18,1,8,0
+dda803c7-0782-4a4b-8b2c-c66653acf947,"Estrada, Herring and Underwood",Fashion,88,116543.34,39367,30,67,0,0,0
+8a99daf4-7f5c-49b4-bf16-8b552b69158f,Andersen Inc,Food & Beverage,3,71067.96,45041,37,89,3,3,0
+5ce80f79-41e6-40e4-9265-42e6f9ca001c,Rodriguez-Cox,Home Goods,18,77134.58,8887,46,50,2,5,0
+254279d2-8bfe-49aa-9fe0-8cbcba110057,"Burnett, Reed and Neal",Fashion,67,2706.14,30576,6,75,0,0,0
+276f7d65-0d0d-45b5-b86b-a195dfd3e710,Moore and Sons,Food & Beverage,95,123810.1,22423,25,76,3,2,0
+ebd47ac0-3770-46e8-9acc-46afca70b5f2,Golden LLC,Fashion,35,154840.77,17794,22,34,1,3,0
+a848eabf-5729-45b4-b24f-598351ffbedd,"Harrell, Hendricks and Fields",Home Goods,78,121606.61,29908,11,56,3,0,0
+b5f2d170-648a-4d75-bde3-a6f68fa8b90f,Bradshaw Inc,Home Goods,21,69159.04,11426,6,74,3,4,0
+bc7ff635-c267-44aa-953f-4c75c11f88a5,Hansen-Hess,Fashion,20,92422.4,33091,9,61,1,7,0
+7b065374-f36e-4be2-b008-ff7adf460345,Harris Ltd,Home Goods,42,94632.64,42569,4,35,2,8,0
+518aba6c-800d-4a31-a053-b544bfc466ab,Cruz and Sons,Electronics,42,130604.94,17239,23,94,3,2,0
+b6f73fa7-9160-462c-84ec-e11a99d9c955,"Roberts, Matthews and Simpson",Food & Beverage,68,164037.78,10457,42,45,3,7,0
+2dfb045b-97d5-4c30-80fc-18d60223bf23,"Beck, Smith and Morales",Fashion,50,135211.77,14997,10,26,1,3,0
+248fb1a0-230a-4c24-92b6-5840756cd4d4,Williams-Pruitt,Fashion,49,134708.23,49467,44,63,3,6,0
+702ab73e-38d0-4ecc-8973-e33a28397800,"Williams, White and Rodriguez",Fashion,54,85451.49,21800,20,59,0,1,0
+5006484d-eacb-4564-a819-8520798b4b9d,Grimes LLC,Food & Beverage,42,137670.26,8291,44,44,0,1,0
+2a5bcf75-7a48-474b-848d-19be0f7ec40a,Ibarra LLC,Food & Beverage,81,142454.55,29593,2,49,4,0,0
+30d6997a-ff6b-4bcb-aaa2-0c2fdfb7c1be,"White, Nguyen and Reynolds",Fashion,51,124349.57,46266,14,8,1,3,0
+97bb7b80-9e68-41ed-a51b-84eb47adb62d,Green and Sons,Electronics,73,177051.05,16622,9,47,3,1,0
+c477f2fb-7429-42ad-8106-05fc5ff09cf3,Medina Ltd,Fashion,83,171593.45,45349,30,16,4,3,0
+a9df0955-d9ec-4c0f-9f02-149902cc89e1,Cortez-Clay,Food & Beverage,37,27227.57,38719,31,53,3,8,0
+4159e3b6-689e-4f31-a1cd-06716be33f38,"Dean, Hall and Young",Fashion,49,150472.96,14760,31,30,3,4,1
+a11a57e1-600c-4695-b799-1697abd15637,Horton LLC,Electronics,42,111054.81,47662,27,56,2,1,1
+69c96807-4f9e-40d1-a3fb-002ed078b0d4,"Guerrero, Snow and Wise",Home Goods,47,191052.35,35403,3,49,2,5,0
+12d9c40e-4a32-4c1c-90dc-eaebb9dc8a3d,Jenkins-Evans,Food & Beverage,21,70909.58,37872,3,60,4,5,0
+edfd2fa5-6423-4b5b-9b95-bf8043470934,Reese Inc,Home Goods,31,106057.96,25208,3,94,0,8,0
+b137559c-2bc9-43f0-a4db-5704812b08cb,Weber LLC,Electronics,76,191304.88,32000,33,63,3,3,1
+a3aa92c5-8744-43c5-9e46-d69f78348276,Glover-Duncan,Fashion,94,171084.23,49795,31,19,4,6,0
+5bd47c9d-d823-4b11-883b-1416adb59f06,"Guzman, Williams and Ortega",Food & Beverage,89,76841.33,31851,42,49,0,7,0
+e87046f0-2c8f-426a-a16f-b72157ce9193,Nelson-Morton,Food & Beverage,37,210187.27,40165,24,23,3,1,0
+c8dde862-25d7-4e38-aea6-f3b7473cdbd9,Blackwell Ltd,Electronics,40,198721.78,48593,1,41,3,0,0
+110dae0f-0635-4f0a-928e-7e8e0d059015,"Barnes, Thomas and Phillips",Home Goods,17,113317.13,24632,18,88,2,3,0
+d65448b7-8772-42ee-b0d0-b539373e0fde,Padilla Inc,Home Goods,54,117919.54,13178,20,44,0,7,0
+65898e5d-a18e-479a-91e8-742d3ee53ca3,Sutton and Sons,Fashion,4,82877.06,39137,43,56,4,1,0
+76f768d3-df76-4a6f-b218-8018cbecfc27,Garrett-Hinton,Electronics,67,215727.76,11288,37,25,4,4,0
+07ea0eb0-4a00-4d5d-9bd8-6aacd730d1c7,"Foster, Sullivan and Le",Fashion,46,133852.42,10380,20,36,0,7,0
+41918f6a-1a45-4a5a-94ca-27a35f737be9,Moore and Sons,Fashion,4,87910.4,14070,38,73,0,8,0
+b5128d94-22fc-4edc-b28a-2611c9c160ac,Roman PLC,Fashion,4,-29194.55,24912,24,26,0,8,0
+0e82da36-ca87-465b-88c7-8c14e2f74b01,Mendez LLC,Home Goods,37,184526.05,11664,21,61,2,4,0
+543950e2-ece2-46fa-bbf0-8cc371ce0943,Nolan Group,Food & Beverage,24,100980.25,34815,12,20,3,5,1
+26cbb840-7777-441f-af9b-ecc141f8deb4,"Ingram, Martinez and Larson",Fashion,50,-1592.25,7583,11,81,3,4,0
+cff43c26-dfb7-439c-9f07-155e5c26fbaf,Hodge-Navarro,Electronics,65,83709.8,47487,42,57,2,3,1
+bd3392b8-27b6-4f71-8fb2-4f43462879be,Clark-Smith,Home Goods,10,47345.31,47107,33,36,4,6,0
+b9611f3b-5732-406d-9377-35bfd57184ad,Barnett-Turner,Home Goods,88,91833.13,13904,23,66,2,8,0
+a3b378ca-e6fc-4213-ac27-5acb32db223d,Key Ltd,Home Goods,73,121239.51,19612,19,40,0,0,0
+ac52ad50-eecb-45ed-9855-68440638de11,Koch-Harvey,Home Goods,78,-31728.37,19804,45,21,3,1,0
+8b9b561b-9018-4f42-9217-01f71d9a416d,Wolf and Sons,Fashion,45,56940.42,37530,31,46,3,8,0
+c3119e19-f1bf-4511-9c53-136a728a0cd1,Golden Inc,Electronics,59,226441.71,36818,24,45,2,6,0
+618726f4-041c-49de-9cb8-a497d765e439,Taylor Ltd,Fashion,98,136475.39,31766,4,73,0,9,0
+e51efa70-7652-48f9-aae5-ec9d9866e09d,Clark LLC,Fashion,33,100646.97,15367,15,70,0,2,0
+28e968d4-dcd3-4f65-ada3-dd6a85f797da,Wolfe and Sons,Food & Beverage,69,110811.61,42614,37,66,1,7,0
+060633f3-2caf-4dc2-8cab-ecece00e3377,Sharp-Schmidt,Food & Beverage,87,137480.9,26390,24,72,3,2,0
+7dd2a6ff-b28f-4257-b5c2-d2fe6392dab5,Werner Ltd,Food & Beverage,22,144234.33,28134,33,26,1,9,0
+e3dee217-64f1-49ff-ab34-9d59aa5770e0,Anderson Ltd,Fashion,93,73060.88,14839,26,55,4,3,0
+a157f73a-5e1f-481a-9906-7a3b693d8915,"Arellano, Pittman and Taylor",Electronics,19,118796.89,33953,6,65,0,3,0
+7745fc56-1ea1-48d4-bc87-6629d4de2b24,Welch PLC,Home Goods,41,100089.18,5604,9,25,0,4,0
+dd3307a8-66c6-4b14-9ce7-b0a932c4658b,"Harvey, Rodriguez and Taylor",Electronics,79,103564.81,17891,18,72,3,6,0
+d0b8c5a4-075a-41a8-b55f-731b59da2fa8,"Mclean, Navarro and Price",Home Goods,36,156130.85,11991,12,55,3,8,0
+514232ac-6370-42fc-8f34-1a5b6ff19bec,"Davenport, Stevens and Martinez",Home Goods,64,119399.16,37264,1,44,3,2,0
+b4fa1585-5f17-443d-85d3-9babec5a753b,"Chen, Nguyen and Everett",Home Goods,80,79105.98,15799,14,63,4,0,0
+2ad07985-1d04-483d-beab-a2429e6c4256,Castro-Castillo,Electronics,91,62545.63,36564,15,32,0,1,0
+469a75db-e30b-4df7-9ac8-229102e3e055,Parker PLC,Electronics,86,28439.68,15123,2,45,1,7,0
+56b8435f-36bb-4934-b4f5-e55c021d24d2,Daniel PLC,Home Goods,19,71474.34,5721,33,48,2,6,0
+09170a49-d3b5-448f-8054-bce39e6f5bd2,Hicks Ltd,Electronics,59,85277.07,26611,32,108,0,0,0
+af427972-f240-4179-9895-995e26b960f4,Cooley-Mckinney,Fashion,56,-14942.11,35015,41,47,4,1,0
+71a930f3-989b-4f74-954b-5ca8346293eb,Melendez Inc,Fashion,31,157817.37,22475,38,36,4,7,0
+9d0e617b-9078-499b-b29d-7a7b9383fc6b,Mcintyre-Hernandez,Home Goods,52,112722.79,18689,19,78,4,8,0
+7c87bf98-d451-4077-b9c4-8160c3026a80,Castro-Abbott,Home Goods,18,59475.96,44314,44,69,1,6,0
+06bfc748-87cd-4155-ae0a-b20c7a3d4564,Hopkins-Blackburn,Electronics,67,110309.99,14201,8,39,2,0,0
+3ac5d3b2-84db-4726-94e7-9cfdc02c54d5,"Fuentes, Walker and Porter",Home Goods,87,147907.91,26085,17,65,0,6,0
+e7f0d1a0-50ec-4384-a8e0-cdc406222de8,"Haynes, Brown and Jackson",Home Goods,63,133637.14,42161,10,12,4,9,0
+189484d6-4374-4dbe-b873-64723f3d19c2,"Mitchell, Roy and Rush",Food & Beverage,87,178084.12,26576,33,57,2,2,1
+b0a87d32-61b4-4bc7-9c54-e6f4035e429b,"Perry, Mathis and Williamson",Fashion,67,178734.2,6834,2,24,0,3,0
+5c6d8728-27a7-4691-bc15-c44e4072bba3,Watkins-Knight,Electronics,63,118905.82,13342,13,30,4,2,0
+e57a7668-9722-41a8-a06e-6a1b62330612,"Johnson, Ellison and Wilson",Home Goods,45,58320.49,28017,31,61,0,1,0
+e080aa90-3fe8-4521-b1d7-a42e8d9c997b,Riley and Sons,Food & Beverage,13,112758.44,21861,46,32,2,4,0
+a4190158-45de-4b8a-87ad-9ef12fb8ece8,"Johns, Hoffman and Ho",Home Goods,99,90228.08,19872,8,16,0,8,0
+8ffb0e6e-d8f7-4809-9071-76c6126a941f,"Johnson, Green and Mcconnell",Home Goods,27,187853.36,9093,40,60,4,2,0
+e12a2006-f4a2-43f6-9b7c-b2bec548b2f1,Burnett-Johnson,Fashion,66,117170.68,11958,29,23,1,6,0
+4ad987b9-fc76-4e8d-9ffa-f34e83540934,Clark-Green,Food & Beverage,76,81052,15629,7,51,4,2,1
+fc731da5-65e9-4504-b1b7-5ce23be3c504,"Smith, Hill and Lee",Fashion,49,121531.41,23250,33,38,3,5,0
+de7c91d2-4b9f-4b1a-8107-8d6b17d048b4,Mcknight-Harvey,Electronics,44,94360.1,46967,40,80,0,9,0
+f395daa4-10a2-4f59-9fd9-afc0b8cee937,Carter-Howard,Home Goods,32,103413.16,45996,29,41,4,1,0
+f86a6ce5-a128-4454-9fad-bd964faa1fa8,Armstrong LLC,Food & Beverage,89,81551.43,35916,27,20,2,9,0
+9bff89d8-9f9f-4c1e-acec-bb6b7bf7c3b6,Rogers Inc,Electronics,49,186501.12,37234,41,43,4,8,0
+c1dea152-24b4-4915-9616-a6acc09b32b9,Thomas-Williams,Electronics,75,167961.16,23672,30,77,4,4,0
+b263bc3a-a4bd-4bc5-8135-e66f8f82c4b4,"Anderson, Thomas and Rodriguez",Home Goods,26,118586.64,14206,40,25,2,8,0
+9ef3d458-6872-4734-9149-21b3f0becffd,Orozco Group,Food & Beverage,49,112589.31,17402,17,25,4,0,0
+88123790-5a75-4131-b60d-c2f53f810bbe,Montgomery-Robinson,Home Goods,14,25898.12,38239,12,53,4,7,0
+3b9ee156-a2fb-470c-8a8f-ed83ec64a121,Duncan-Dillon,Home Goods,91,74651.56,25878,4,62,2,8,0
+28b88e41-d0bb-4bc4-bae3-521cfd5d5622,Harrison-Gonzalez,Fashion,77,61993.05,7577,19,32,1,7,0
+ba5d7899-6a9b-4596-a230-c332fbe1ea07,"Figueroa, Castro and Copeland",Fashion,88,120260.83,46573,44,36,0,6,0
+ddcf3c10-bcbd-46ed-b7da-e6fbd60bbd39,"Smith, Hull and Morgan",Fashion,22,167035.25,46781,5,52,1,7,0
+90c3c4d9-8e39-4e37-b02d-045fd56f7962,Ellis-Fields,Electronics,2,86686.42,47305,19,48,3,7,0
+cc10fa8d-a0ca-4293-8aa2-31492f7e0edc,Lane-Brown,Food & Beverage,36,44489.83,31343,35,28,4,7,0
+4c6801d7-a900-4dec-a22e-cccec19a7011,"Hood, Gutierrez and Coleman",Fashion,73,87716.93,23637,26,3,3,0,0
+d38ce357-3b67-487f-8ed2-306c5f15f1e7,"Reynolds, Lynn and Boyle",Electronics,71,79887.73,39052,46,76,1,1,0
+666d00bb-5233-4088-b4b2-23dcb0638ad4,Carter-Moyer,Fashion,15,187157.4,6485,38,20,1,8,0
+4c586743-147b-4d6d-989b-3bf554c620d2,Smith-Rogers,Fashion,74,120977.6,24313,32,30,2,4,0
+68a0cf1a-cdca-4d4d-9978-b49d387f9c86,Johnson-Stokes,Fashion,17,197351.5,33710,30,61,1,3,0
+53b81472-59bf-420a-b89b-44b9323ebd71,Brown-Dalton,Fashion,47,159778.62,17552,38,57,1,4,0
+a3a96af8-f212-4f7c-9ced-52fe50a25497,Steele-Hays,Food & Beverage,5,121862.51,34898,22,46,0,9,0
+993efcfd-f373-476c-8352-da6cf17f9c30,Patel Ltd,Fashion,36,33930.4,27569,19,22,0,1,0
+566c8dff-3208-4051-9658-ad91447170bb,"Elliott, Bender and Burgess",Food & Beverage,38,96535.43,39268,34,52,2,3,0
+1e458b49-1aff-41ed-830b-fa12c1ef8660,Morgan-Miller,Home Goods,63,88690.26,9143,15,12,0,5,0
+c968a6b1-7327-4fa1-bdac-67e0a2206bb9,Chapman Group,Electronics,97,-20507.2,28596,18,40,1,0,0
+734d46df-9c93-49f6-b4f3-678fedddd256,Watson LLC,Home Goods,28,173906.39,42927,30,62,0,6,0
+d8f330ed-3b63-490d-a1c4-af556a3f2d1c,Murphy-Berry,Fashion,81,48720.63,10135,28,43,3,8,0
+8933fec3-d228-4834-8a0b-4361a80d180d,Stevens LLC,Fashion,30,77797.82,41872,16,60,4,4,0
+c8433109-ee79-4337-b69a-66e3327698bc,"Smith, Perkins and Aguirre",Electronics,45,63073.25,48629,10,36,3,6,0
+2e612b6a-46d2-4d7f-8ba8-774cd499fcbd,"Taylor, Blair and Cook",Fashion,57,59977.38,31068,18,54,0,1,0
+189c73b5-2937-43ba-a6c1-8bf11ec3ba8b,"Burnett, Ray and Parker",Electronics,48,85799.29,10614,27,58,4,9,0
+4965faf9-c235-4d22-9b25-4c7563b985b4,Thompson Inc,Home Goods,56,105100.16,35413,13,49,2,9,0
+c8af3bb7-3c04-4c8c-be58-291da2c373bf,"White, Davidson and Wiggins",Home Goods,48,56066.61,11860,36,7,4,9,0
+a36bed54-4f96-4f9c-bac3-a66542caec7c,Watson-Braun,Electronics,83,155412.8,38409,46,54,4,6,0
+55600bd3-88a5-4868-96e9-ab8483a6e27e,Duncan-Ballard,Fashion,4,180587.84,5885,14,82,1,5,0
+d6b03aab-0e22-43a4-996c-aedfb9ecaf94,Harding-Rios,Food & Beverage,63,73804.55,47556,37,32,2,1,0
+5c382bc0-5bec-4e20-8104-89c6f321310e,"Cox, Francis and Ortiz",Food & Beverage,16,82679.91,12657,37,59,2,3,0
+6db748fa-e47b-4000-ae7d-c420a856c268,Zuniga PLC,Food & Beverage,77,62773.93,35591,37,49,4,6,0
+4ed878b8-afd8-4f62-bde6-c7a391cc243c,"Parrish, Ryan and Cooper",Electronics,61,162756.72,49907,17,15,0,5,0
+650b8524-fcd2-4432-ae62-aeb3f04d9e43,Walker-Mitchell,Fashion,9,125010.13,7150,30,40,0,3,1
+1de32879-d0d0-45e4-a7b4-043e90304478,Tran-Cunningham,Fashion,3,124823.49,30211,28,100,0,8,0
+f5001cd3-74fd-4804-8bd7-f605bfe04b18,"Oneill, Porter and Hamilton",Food & Beverage,21,106182.07,15900,34,64,2,0,0
+4b1127ca-18dd-46b1-ab7a-1e3d92d1bc7b,Salazar-Thompson,Electronics,10,85974.03,8562,28,43,2,8,0
+530dd8d2-f496-4f9b-a0e4-0212a2cd8b82,Walker-Dillon,Electronics,64,78325.11,43363,20,72,0,0,0
+ad1caad8-8cf8-40ed-969a-6d0e34949b1e,"Gonzales, Hernandez and Hamilton",Electronics,19,114392.8,12716,46,41,1,8,0
+df5ef3ca-092d-4e91-8bf9-affeb8fd7409,"Bray, Thomas and Shaw",Electronics,61,125062.69,22156,41,73,0,5,0
+56c13549-0908-4dfd-9f41-a6681623a7ee,Adams-Leach,Home Goods,74,44635.71,28436,16,63,3,7,0
+eb9a0ff5-3dac-4211-bcec-b21cb7431675,"Ryan, Roy and Perry",Home Goods,14,63774.39,14766,28,30,0,9,0
+1fd00384-f67c-47a0-9355-d5775f48bade,Dunn and Sons,Electronics,98,141531.3,10753,1,51,4,3,0
+dc4b00d5-6b78-4d57-bc12-98245bf66039,Padilla and Sons,Home Goods,80,72137.4,28330,4,38,3,7,0
+9f03ba61-e8d4-4730-a889-9c0ba9872399,Howard-Wilson,Food & Beverage,91,136826.78,23738,46,52,2,7,0
+b0ad6ed4-5003-4ad6-9db1-f297ae3723a4,Manning LLC,Home Goods,83,69468.34,35509,10,52,4,0,0
+d9774827-9ae1-42ce-b10f-0dbc3d11a3cc,"Garcia, Perry and Harrison",Home Goods,94,123550.74,25703,25,35,1,2,0
+3c92da5e-6861-41a4-a52a-ae9923458295,Cherry Ltd,Home Goods,90,87381.54,10361,14,65,4,5,1
+de3cf7f1-dd4d-4e1d-8a76-9415ed7daa7c,Morgan-Ponce,Electronics,21,100171.35,41978,33,45,2,5,0
+27017bb1-b7e5-40bc-a4de-744fbf38b420,"Gray, Nelson and Mendoza",Electronics,74,113328.62,25371,22,76,1,4,0
+36d35f6c-8dad-48b6-a192-4b862fa9f924,Cruz-Snyder,Electronics,1,16609.49,34111,37,40,0,6,0
+ab547cb6-9ec2-4896-9b2f-e12ee1972b1c,Poole and Sons,Fashion,60,79738.25,10273,44,78,1,7,0
+3919c298-3670-4b9b-be6c-647a6d6afb48,Miller and Sons,Home Goods,80,146042.82,36671,33,84,0,7,0
+27f2c2fa-ac61-4b45-b35a-18fc24e5d7c6,"Perez, Huffman and Bradford",Home Goods,92,64224.2,29940,16,32,1,9,0
+55c86c7d-3abc-4f96-b938-06ca8d9ebac7,Hodges-Bauer,Electronics,26,145962.91,30440,37,35,4,1,0
+b930b65b-05be-45b3-b995-8b9719bdb9f1,Nelson-Miller,Food & Beverage,10,72953.06,18731,7,42,2,4,0
+15fc0165-4bb8-4d37-aef0-e93d358be5fe,Williams-Howard,Food & Beverage,24,90107.73,48538,33,38,2,2,0
+80d17aed-3b11-4765-ac8e-b22c76444462,"Reed, Obrien and Nichols",Fashion,47,82568.06,22085,33,73,4,3,0
+3427ec85-25b4-41ec-bb4a-d4fcb441fb48,"Martin, Villanueva and Arellano",Electronics,92,73635.71,41348,39,27,1,8,0
+079475e4-8ff2-4265-9ec1-af491991f082,Baker-Rich,Home Goods,30,2943.31,10531,11,47,4,6,0
+095796c8-13df-49af-9df3-e79865538a8b,"Robinson, Cannon and Brown",Electronics,23,85440.74,35072,19,10,3,6,1
+ba8abf10-2b39-4972-9ba6-54e880c46485,"King, Brooks and Edwards",Electronics,59,135941.22,30257,8,44,1,2,0
+8eb3e18a-7db1-4360-b963-b495574b17d0,Mendoza-Vasquez,Food & Beverage,77,183282.15,16850,40,22,2,1,0
+649f8227-b2f8-43f3-87c2-86dc6e30be13,Fowler Ltd,Food & Beverage,17,123337.05,35560,46,67,0,4,0
+319a25d9-3787-4a18-a5f7-568ceca56ffe,George Inc,Fashion,45,137231.08,6344,46,49,4,7,0
+1686467c-1164-40a7-a912-93584155b182,Anderson-Dennis,Electronics,4,73229.42,17162,30,42,0,5,0
+1fa00e76-1f69-4e6b-a03b-6a1ae828a872,Young and Sons,Home Goods,23,40603.77,7824,5,61,4,3,0
+8d3fa4c2-8f34-4106-98c5-bec9bed82611,Mann-Cox,Food & Beverage,68,65412.89,28662,2,40,4,1,0
+bf95067f-8bee-435d-8936-38cbdbde842e,Robertson-Hoffman,Home Goods,29,76869.27,33903,20,42,3,0,0
+e051a2de-e7d2-42c4-aff0-a7d0401f7279,Schmitt-Young,Food & Beverage,80,120979.27,30553,4,48,0,7,0
+febaf124-fecb-46b6-8796-8d0e79a48933,"Whitney, Black and Allen",Food & Beverage,41,187311.79,18003,42,30,4,6,0
+f2573c36-69ea-43eb-813a-03970d0954fa,Hoffman-Skinner,Home Goods,66,83688.6,32326,10,0,1,3,0
+c3573b70-6d61-4054-933a-c2c890e9cee7,"Roberts, Peterson and Schmitt",Electronics,59,74414.16,31175,22,47,2,6,0
+71d1e7c9-5f28-4d83-af84-8b24c16d9a3f,Nguyen-Bullock,Home Goods,44,14289.17,47988,37,44,2,6,0
+64922eb7-4b04-4c88-93e3-100774be41e4,"Cooper, Chandler and Wilson",Food & Beverage,88,89023.53,46780,30,50,1,1,0
+de547120-8d58-4939-8be1-b19c0562c0f2,Wood Inc,Home Goods,97,112484.75,37081,47,49,2,8,0
+cc3d6a46-8331-4f7a-926b-f498fcd23fdd,Sexton-Lopez,Food & Beverage,61,43523.94,25857,42,40,2,5,0
+4fb46c18-ead7-44a7-b345-2fe283422bf4,"Carpenter, Braun and Richardson",Electronics,32,55795.42,39019,37,53,0,7,0
+15d36971-d45c-4ed8-8211-c4c9e95bf76e,"Bailey, Blair and Johnson",Food & Beverage,23,139643.44,32280,25,48,1,4,0
+af21a832-8370-478f-8c26-cdd2e8fea950,Rogers-Ferguson,Food & Beverage,43,109937.58,41646,12,28,2,4,0
+bada8ba2-5d02-4e8f-9fc6-4d086cb71354,"Wood, Randall and Mendoza",Home Goods,15,110761.04,16068,39,49,2,9,0
+693c3a77-e487-486c-a4c1-4b8fed91da18,Bean-Simon,Home Goods,5,122157,38949,5,1,3,7,0
+d2e630ea-e674-4d62-9a36-6b82d7a917d0,Williams and Sons,Electronics,90,32111.1,33889,9,92,4,7,0
+96e29af5-41b1-42e9-aed0-b388bf3ea913,"Valencia, Duncan and Stevens",Home Goods,96,99449.82,12183,36,66,3,7,0
+1392d452-07e5-4e3c-9cf6-31a9976d65b3,"Kim, Contreras and Taylor",Food & Beverage,17,63978.22,14177,8,68,4,2,0
+2f641c57-c457-41cd-8db4-8496c6e2df58,Perez PLC,Fashion,99,95610.33,49074,29,5,3,9,0
+6cb2e951-5e03-4667-b6a9-c66bc3cd811d,"Hunter, Wilson and Krause",Fashion,38,123574.91,36314,20,50,4,3,0
+d702b009-a3f6-4701-b2cf-e091e8bec4b3,Herrera PLC,Food & Beverage,7,55742.86,9460,39,75,3,2,0
+d14399b7-5fcc-4cb1-89e0-2bf1e1946ead,Cruz-Olson,Electronics,73,95192.77,11311,12,48,0,3,0
+a15aa161-06e8-4562-a115-b33364565f35,Fitzpatrick-Joseph,Food & Beverage,99,97867.15,48407,36,45,0,5,0
+97fc17a9-66d4-4010-803c-60f920e1ac82,Thomas-Brown,Fashion,67,107013.66,18610,24,24,1,2,0
+4b306cc1-f7dd-4f14-bb3a-f3a9a0c3b713,Noble Group,Electronics,21,131547.31,29430,18,48,0,5,0
+e3629094-e957-49ae-8394-3b55d541ec61,"Horne, Hines and Richardson",Food & Beverage,85,-9782.4,47074,15,68,1,8,0
+bc9dd669-837d-4b57-8f3f-6dc1152e5721,Dickson Group,Home Goods,11,71420.5,33802,7,30,2,8,0
+367b1784-ab20-41d4-8b70-fac47fbd8dd8,Perry-Griffith,Electronics,39,179421.15,34330,9,34,2,0,0
+c9ac2c01-d00c-4841-9b55-c9ef2f64d834,Bennett-Fernandez,Home Goods,64,-1705.81,35863,26,59,3,8,0
+f6e17dc5-d3de-40d5-afd4-59a24cb7aca7,Sandoval PLC,Home Goods,68,114089.59,42355,5,9,0,9,0
+149235f8-50cd-4769-83b7-fd559918e7ae,Marks-Salazar,Home Goods,64,55450.91,32507,24,50,0,9,0
+09bcaf57-95f0-4dd9-85fb-02abb7b19d1f,Hunt-Taylor,Electronics,8,73608.5,41630,34,81,0,9,0
+3b2c3218-9ab0-4410-8d72-176ef38e51ff,Wolf-Moreno,Fashion,67,49234.49,48188,23,54,1,6,0
+a351e91b-2090-478c-bb24-8151edffa5ce,Taylor-Gonzalez,Fashion,37,68156.23,16671,38,77,1,6,0
+ed3cfc1c-3afb-4569-be6f-04a0a5e6eb54,"Fisher, Hess and Park",Electronics,29,75589.14,40840,4,36,3,7,0
+271bae0e-9b17-4223-85e1-85e5377ad34f,Keller Inc,Food & Beverage,73,209801.92,35048,32,66,0,7,0
+2ca0788b-3300-4fa1-af97-8842946d2322,"Reyes, Young and Henderson",Fashion,44,73757.7,12014,38,39,4,4,0
+1412ef5d-931b-419b-8174-22f917d375f7,Adkins Group,Food & Beverage,23,80521.62,35858,20,57,2,4,0
+db3ec265-f73f-4412-a6e0-5d8b8c5df781,Parker Inc,Electronics,62,111410.22,48819,3,53,3,4,0
+59cac766-c5d9-4995-808f-18107b5651ea,"Flynn, Lee and Rogers",Home Goods,93,152892.33,17891,20,62,2,2,0
+94fc0b88-a8b0-4f03-b4c6-4f3a8c8e39f3,Tanner-Lewis,Fashion,1,145554.95,11094,35,78,0,8,0
+fd0b720c-5315-4c4c-ba10-b61026403d71,Mack Group,Electronics,75,120777.19,21324,43,75,1,6,0
+2c381ac8-9263-462c-a202-e8df922bcd4f,Beltran-Hawkins,Home Goods,56,161376.08,16300,35,62,4,8,0
+346171c0-f433-4089-b48a-54ea1a541d83,Adkins PLC,Home Goods,5,194838.77,28039,8,37,2,2,0
+70244c1d-f4f9-4657-ada8-24c906e52f5f,Wright-Prince,Home Goods,29,28789.31,9745,29,48,4,6,0
+feea59e3-fa51-4959-a1c5-acc190520aad,"Richardson, Berry and Robertson",Home Goods,5,135124.34,27676,18,82,1,9,0
+632fb864-451f-4fb9-a6f3-d1a3ac466504,"Williams, Powell and Marshall",Fashion,78,120777.98,44217,27,56,4,6,0
+d3d882b9-a7d0-455d-a5f3-a7f64bcde54d,Young-Gardner,Food & Beverage,36,76670.78,29327,34,37,1,9,0
+503d2783-34cb-4be4-8836-72d6e7c86a44,"Cole, Glenn and Jackson",Food & Beverage,91,6396.77,23631,41,90,3,3,0
+2cdb5ea7-4248-4802-bc2f-5d1706587084,Santos PLC,Home Goods,18,161896.14,28525,20,61,2,9,0
+c1bf3051-4337-4c55-a256-cea34840a339,Carr LLC,Home Goods,12,185550.2,44633,26,50,2,1,0
+18486abe-016f-4de5-9310-1b769a1dcbb6,Obrien Ltd,Fashion,82,8833.94,42740,46,55,3,6,0
+f4333bf2-57f7-42cd-90b5-dc606bfdb49d,Hall Ltd,Electronics,70,57392.67,27780,4,54,3,7,0
+83272cf9-05d0-4efd-9cc3-06822b0e2375,"Fitzpatrick, Cooper and Bryant",Electronics,91,43986.8,13392,35,47,2,6,0
+79875bad-c083-43f7-a4ca-39f7ed67eb66,Levine-Rogers,Fashion,58,112573.38,38513,29,33,3,5,0
+1b156107-6f2c-4103-9d4f-c553fe346903,Sheppard-Mendoza,Home Goods,51,-5012.3,21511,38,58,2,4,0
+4b303ea3-a51e-4f4b-bbac-691fd9ccad81,Fields-Chapman,Electronics,30,158489.27,19133,8,60,3,8,0
+0b7314a7-8f7c-45dc-843d-711f87f02b02,Hess PLC,Home Goods,27,82560.27,13553,2,40,0,5,0
+40988979-d648-4f78-9ce8-1cacfd442170,Perez-Bond,Home Goods,33,159150.98,34119,29,53,0,8,0
+ab15d49a-73db-4419-90a6-8fee69c5d033,"Juarez, Cisneros and Zimmerman",Food & Beverage,23,116438.09,19328,44,62,3,8,0
+a4a68a1f-3bc2-40d0-8609-5338b405f943,"Smith, Rios and Wright",Electronics,4,156454.22,6900,15,45,2,0,0
+b307cf2e-d317-44a6-86f8-21079acd1335,Preston-Macdonald,Electronics,82,113446.62,48727,37,63,3,9,0
+80a78261-2fde-4af9-8e46-9482ee7dc0bb,Vazquez Group,Fashion,93,133985.06,18424,16,25,3,5,0
+8876f4d6-271c-4a11-ace0-5fb1e893bb26,"Raymond, Rodriguez and Keller",Fashion,56,174147.71,39304,11,34,4,4,1
+070888ef-bc04-4fd1-8cf0-2711d18a3d75,Molina Ltd,Electronics,72,29807.03,37676,1,50,4,3,0
+3dde95d1-c5f2-4446-8203-b6ed04b274cc,Johnson Group,Electronics,77,143330.89,18235,35,57,4,2,0
+2021e1f5-20c7-4244-a413-d489cc84d2aa,Byrd-Lee,Electronics,70,36024.4,28059,18,34,2,6,1
